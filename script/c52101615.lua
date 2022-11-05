@@ -16,6 +16,10 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --融合呪印生物－闇
 --The Dark - Hex-Sealed Fusion
 local s,id=GetID()

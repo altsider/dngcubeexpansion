@@ -8,6 +8,10 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --幻影騎士団ダスティローブ
 --The Phantom Knights of Ancient Cloak
 local s,id=GetID()

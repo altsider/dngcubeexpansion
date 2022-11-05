@@ -1,5 +1,9 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --壱世壊＝ペルレイノ
 --Perlayno, the Primal Parallel Ruined Realm
 --scripted by Zefile

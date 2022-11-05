@@ -10,6 +10,10 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --忍法装具 鉄土竜
 --Ninjitsu Art Equipment Kanamugura
 --scripted by Naim

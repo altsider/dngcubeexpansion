@@ -12,6 +12,10 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --閃刀姫-カイナ
 --Sky Striker Ace - Kaina
 --Scripted by AlphaKretin

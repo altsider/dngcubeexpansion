@@ -6,6 +6,10 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --深海姫プリマドーナ
 --Deep Sea Prima Donna
 --Scripted by Eerie Code

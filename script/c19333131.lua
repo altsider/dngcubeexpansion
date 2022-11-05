@@ -1,5 +1,9 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --No.12 機甲忍者クリムゾン・シャドー
 local s,id=GetID()
 function s.initial_effect(c)

@@ -20,6 +20,10 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --お代狸様の代算様ー
 --Overeager Mr. & Mrs. Tanuki
 --scripted by pyrQ

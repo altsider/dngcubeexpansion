@@ -1,5 +1,9 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ギャラクシーアイズ FA・フォトン・ドラゴン
 --Galaxy-Eyes Full Armor Photon Dragon
 local s,id=GetID()

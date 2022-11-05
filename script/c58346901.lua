@@ -10,6 +10,10 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --焔聖騎士-オリヴィエ
 --Infernoble Knight Oliver
 --Logical Nonsense

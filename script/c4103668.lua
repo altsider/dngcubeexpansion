@@ -18,6 +18,10 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --翼の魔妖-天狗
 --Winged Mayakashi - Tengu
 local s,id=GetID()

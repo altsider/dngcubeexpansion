@@ -18,6 +18,10 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --破壊竜ガンドラ－ギガ・レイズ
 --Gigarays Gandora the Dragon of Destruction
 local s,id=GetID()

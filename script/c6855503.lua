@@ -6,6 +6,10 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --赫灼竜マスカレイド
 --Masquerade, the Crimsongleam Dragon
 local s,id=GetID()

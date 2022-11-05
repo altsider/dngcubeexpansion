@@ -18,6 +18,10 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --H・C サウザンド・ブレード
 --Heroic Challenger - Thousand Blades
 local s,id=GetID()

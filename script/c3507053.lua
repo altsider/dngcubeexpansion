@@ -1,5 +1,9 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --乾燥機塊ドライドレイク
 --Appliancer Dryer Drake
 --Anime version scripted by pyrQ, updated by Larry126

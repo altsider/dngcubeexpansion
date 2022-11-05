@@ -1,5 +1,9 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ｔｈｅ ｔｙｒａｎｔ ＮＥＰＴＵＮＥ
 --The Tyrant Neptune
 local s,id=GetID()

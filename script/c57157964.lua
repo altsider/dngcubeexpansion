@@ -20,6 +20,10 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --古生代化石マシン スカルコンボイ
 --Fossil Machine Skull Convoy
 --Logical Nonsense

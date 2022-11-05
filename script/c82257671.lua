@@ -1,5 +1,9 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ガッチリ＠イグニスター
 --Gatchiri @Ignister
 --Scripted by Eerie Code, anime version by Larry126

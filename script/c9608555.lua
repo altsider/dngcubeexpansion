@@ -14,6 +14,10 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --転生炎獣ブレイズ・ドラゴン
 --Salamangreat Blaze Dragon
 --Scripted by ahtelel

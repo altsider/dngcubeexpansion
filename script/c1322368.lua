@@ -1,5 +1,9 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --SPYRAL－ザ・ダブルヘリックス
 --SPYRAL Double Helix
 local s,id=GetID()

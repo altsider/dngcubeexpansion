@@ -1,5 +1,9 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --威炎星－ヒエンシャク
 --Brotherhood of the Fire Fist - Swallow
 local s,id=GetID()

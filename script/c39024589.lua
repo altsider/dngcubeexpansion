@@ -1,5 +1,9 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --魔界劇団－ダンディ・バイプレイヤー
 --Abyss Actor - Trendy Understudy
 local s,id=GetID()

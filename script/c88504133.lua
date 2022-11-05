@@ -8,6 +8,10 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ＲＵＭ－ファントム・フォース
 --Rank-Up-Magic Phantom Knights' Force
 --scripted by AlphaKretin and by edo9300

@@ -1,5 +1,9 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ライトロード・ドミニオン キュリオス
 --Curious, the Lightsworn Dominion
 --Scripted by Eerie Code

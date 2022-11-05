@@ -10,6 +10,10 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ｌｉｖｅ☆Ｔｗｉｎ キスキル・フロスト
 --Live☆Twin Ki-sikil Frost
 --Scripted by edo9300

@@ -1,5 +1,9 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ソウルエナジーＭＡＸ！！
 --Soul Energy MAX!!
 --Scripted by Eerie Code

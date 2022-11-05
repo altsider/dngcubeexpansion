@@ -4,6 +4,10 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ｉｎｔｏ ｔｈｅ ＶＲＡＩＮＳ！
 --Into the VRAINS!
 --Scripted by Eerie Code

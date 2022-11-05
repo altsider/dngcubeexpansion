@@ -1,5 +1,9 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --富炎星－ハクテンオウ
 --Brotherhood of the Fire Fist - Swan
 --Scripted by Eerie Code

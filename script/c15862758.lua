@@ -6,6 +6,10 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ＣｉＮｏ．１０００ 夢幻虚光神ヌメロニアス・ヌメロニア
 --Number iC1000: Numeronius Numeronia
 --Scripted by Larry126

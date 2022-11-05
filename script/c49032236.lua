@@ -8,6 +8,10 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --No.81 超弩級砲塔列車スペリオル・ドーラ
 --Number 81: Superdreadnought Rail Cannon Super Dora
 local s,id=GetID()

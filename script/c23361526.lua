@@ -1,5 +1,9 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ＨＳＲコルク－１０
 --Hi-Speedroid Cork Blaster
 --Scripted by the Razgriz

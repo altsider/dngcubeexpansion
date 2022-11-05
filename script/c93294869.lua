@@ -1,5 +1,9 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --傷炎星－ウルブショウ
 --Brotherhood of the Fire Fist - Wolf
 local s,id=GetID()

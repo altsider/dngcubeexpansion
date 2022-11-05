@@ -4,6 +4,10 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 -- Ｅｖｉｌ★Ｔｗｉｎ'ｓ トラブル・サニー
 -- Evil★Twin's Trouble Sunny
 -- Scripted by Hatter

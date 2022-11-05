@@ -20,6 +20,10 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ＣＮｏ．１０１ Ｓ・Ｈ・Ｄａｒｋ Ｋｎｉｇｈｔ
 --Number C101: Silent Honor DARK
 

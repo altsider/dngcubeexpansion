@@ -18,6 +18,10 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ｓｉｎ Ｔｅｒｒｉｔｏｒｙ
 --Malefic Territory
 --Scripted by Eerie Code, credits to Cybercatman and edo9300 for the new Malefic filter

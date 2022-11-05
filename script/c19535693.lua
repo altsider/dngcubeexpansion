@@ -20,6 +20,10 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 -- Ｎｏ－Ｐ.Ｕ.Ｎ.Ｋ.セアミン
 -- Noh P.U.N.K. Seamin
 -- Scripted by Hatter

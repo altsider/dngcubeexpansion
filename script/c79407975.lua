@@ -1,5 +1,9 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --究極宝玉神 レインボー・ダーク・ドラゴン
 --Rainbow Dark Dragon
 local s,id=GetID()

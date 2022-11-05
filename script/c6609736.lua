@@ -2,6 +2,10 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ｎｏ－Ｐ．Ｕ．Ｎ．Ｋ．ディア・ノート
 --Noh-P.U.N.K. Dia Note
 --Scripted by Yuno

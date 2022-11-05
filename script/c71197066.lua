@@ -20,6 +20,10 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --機巧蛇－叢雲遠呂智
 --Gizmek Orochi, the Serpentron Sky Slasher
 --Scripted by AlphaKretin

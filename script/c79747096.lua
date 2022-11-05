@@ -12,6 +12,10 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ＣＮｏ．１ ゲート・オブ・カオス・ヌメロン－シニューニャ
 --Number C1: Numeron Chaos Gate Sunya
 --Scripted by Larry126

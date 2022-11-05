@@ -12,6 +12,10 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ｎｏ．１ ゲート・オブ・ヌメロン－エーカム
 --Number 1: Numeron Gate Ekam
 local s,id=GetID()

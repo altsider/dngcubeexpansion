@@ -1,5 +1,9 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --幻魔皇ラビエル－天界蹂躙拳
 --Raviel, Lord of Phantasms - Shimmering Scraper
 --Scripted by ahtelel

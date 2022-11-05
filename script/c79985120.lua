@@ -2,6 +2,10 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --RR－レヴォリューション・ファルコン－エアレイド
 --Raidraptor - Revolution Falcon - Airraid
 local s,id=GetID()

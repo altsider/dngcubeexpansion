@@ -1,5 +1,9 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --鎧皇竜－サイバー・ダーク・エンド・ドラゴン
 --Cyberdark End Dragon
 --Scripted by Eerie Code

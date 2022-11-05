@@ -1,5 +1,9 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --虚竜魔王アモルファクターＰ
 --Amorphactor Pain, the Imagination Dracoverlord
 local s,id=GetID()

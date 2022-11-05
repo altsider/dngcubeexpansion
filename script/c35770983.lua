@@ -2,6 +2,10 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ダイナレスラー・マーシャルアンキロ
 --Dinowrestler Martial Ankylo
 --anime version by pyrQ, OCG changes by Naim
