@@ -10,6 +10,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --憑依装着－ヒータ
 --Familiar-Possessed - Hiita
 local s,id=GetID()

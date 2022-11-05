@@ -10,6 +10,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --墓守の異能者
 --Gravekeeper's Supernaturalist
 --Scripted by Eerie Code

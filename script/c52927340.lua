@@ -6,6 +6,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --オルターガイスト・クンティエリ
 --Altergeist Kunquery
 local s,id=GetID()

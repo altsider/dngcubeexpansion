@@ -12,6 +12,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --魅惑の女王 LV7
 --Allure Queen LV7
 local s,id=GetID()

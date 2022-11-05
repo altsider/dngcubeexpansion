@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ＲＲ－ラダー・ストリクス
 --Raidraptor - Rudder Strix
 

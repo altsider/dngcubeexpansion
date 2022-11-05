@@ -22,6 +22,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --スピードロイドヘキサソーサー
 --Speedroid Hexasaucer
 local s,id=GetID()

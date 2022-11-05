@@ -6,6 +6,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 -- 暗岩の海竜神
 -- Kairyu-Shin of the Reef
 -- Scripted by Hatter

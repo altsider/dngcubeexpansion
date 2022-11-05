@@ -24,6 +24,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --スーパージュニア対決！
 --Super Junior Confrontation
 local s,id=GetID()

@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --玄武の召喚士
 local s,id=GetID()
 function s.initial_effect(c)

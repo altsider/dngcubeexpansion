@@ -16,6 +16,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --アロマージ－マジョラム
 --Aromage Marjoram
 --Scripted by Hel

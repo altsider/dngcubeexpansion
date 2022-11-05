@@ -6,6 +6,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --かっとビング・チャレンジ
 --Hi-Five the Sky
 

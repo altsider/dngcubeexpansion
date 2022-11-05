@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --軍貫処『海せん』
 --Gunkan Sushipyard Seaside Supper Spot
 --Scripted by The Razgriz

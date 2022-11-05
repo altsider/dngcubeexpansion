@@ -24,6 +24,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --マシンナーズ・ラディエーター
 --Machina Radiator
 local s,id=GetID()

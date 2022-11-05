@@ -12,6 +12,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --捕食植物スキッド・ドロセーラ
 --Predaplant Squid Drosera
 local s,id=GetID()

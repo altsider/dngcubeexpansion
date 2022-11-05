@@ -10,6 +10,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --フライアのリンゴ
 --Apple of Enlightnment
 --Scripted by Eerie Code

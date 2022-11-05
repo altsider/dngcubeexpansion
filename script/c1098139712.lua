@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --死霊の誘い
 --Skull Invitation
 local s,id=GetID()

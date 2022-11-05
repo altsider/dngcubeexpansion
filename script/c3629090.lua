@@ -14,6 +14,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --サイバー・エンジェル－韋駄天－
 --Cyber Angel Idaten
 local s,id=GetID()

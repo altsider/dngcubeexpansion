@@ -8,6 +8,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --墓守の霊術師
 --Gravekeeper's Spiritualist
 local s,id=GetID()

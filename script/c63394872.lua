@@ -14,6 +14,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ポジションチェンジ
 --Senet Switch
 local s,id=GetID()

@@ -16,6 +16,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --紅玉の宝札
 --Cards of the Red Stone
 local s,id=GetID()

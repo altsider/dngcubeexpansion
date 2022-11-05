@@ -10,6 +10,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --幻獣機アウローラドン
 --Mecha Phantom Beast Auroradon
 --Scripted by ahtelel

@@ -6,6 +6,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --九字切りの呪符
 --Talisman of Kuji-kiri
 --Scripted by Hel

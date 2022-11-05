@@ -12,6 +12,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 -- 瑞相剣究
 -- Swordsoul Assessment
 -- Scripted by Hatter

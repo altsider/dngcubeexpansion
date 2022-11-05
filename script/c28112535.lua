@@ -10,6 +10,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --トゥーン・リボルバー・ドラゴン
 --Toon Barrel Dragon
 local s,id=GetID()

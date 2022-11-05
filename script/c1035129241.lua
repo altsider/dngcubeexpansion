@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --星屑の願い
 --Stardust Wish
 --Scripted by Eerie Code

@@ -16,6 +16,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ウィッチクラフト・コラボレーション
 --Witchcrafter Collaboration
 --Scripted by Naim

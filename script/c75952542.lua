@@ -20,6 +20,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --VV-百識公国
 --Valiants Vorld - Koenig Wissen
 --Scripted by Eerie Code

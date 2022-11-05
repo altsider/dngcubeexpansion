@@ -18,6 +18,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --転生炎獣スピニー
 --Salamangreat Spinny
 --Logical Nonsense

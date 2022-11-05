@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --霊魂鳥神－彦孔雀
 --Shinobaron Peacock
 local s,id=GetID()

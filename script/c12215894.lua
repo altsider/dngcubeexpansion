@@ -12,6 +12,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ブンボーグ・ベース
 --Deskbot Base
 local s,id=GetID()

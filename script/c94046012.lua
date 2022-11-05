@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --オルフェゴール・カノーネ
 --Orcust Brass Bombard
 local s,id=GetID()

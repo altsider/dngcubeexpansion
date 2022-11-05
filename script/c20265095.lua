@@ -12,6 +12,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --慧炎星－コサンジャク
 --Brotherhood of the Fire Fist - Peacock
 --Logical Nonsense

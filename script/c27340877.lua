@@ -14,6 +14,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --DNA定期健診
 --DNA Checkup
 local s,id=GetID()

@@ -18,6 +18,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ドレミコード・エレガンス
 --Doremichord Elegance
 --Scripted by Hel

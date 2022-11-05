@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --古代の機械融合
 --Ancient Gear Fusion
 local s,id=GetID()

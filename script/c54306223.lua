@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ヴェノム・スワンプ
 --Venom Swap
 local s,id=GetID()

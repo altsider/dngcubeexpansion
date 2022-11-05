@@ -8,6 +8,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --サイレント・ソードマン LV3
 --Silent Swordsman LV3
 local s,id=GetID()

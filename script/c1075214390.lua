@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --オーバーレイ・ブースター
 --Overlay Booster
 local s,id=GetID()

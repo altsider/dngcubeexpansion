@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --混沌帝龍 －終焉の使者－
 --Chaos Emperor Dragon - Envoy of the End
 local s,id=GetID()

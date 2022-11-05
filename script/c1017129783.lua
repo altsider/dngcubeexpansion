@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --セイクリッド・レオニス
 --Constellar Leonis
 local s,id=GetID()

@@ -14,6 +14,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --オレイカルコスの結界
 --The Seal of Orichalcos
 local s,id=GetID()

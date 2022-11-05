@@ -22,6 +22,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --驚楽園の助手 <Delia>
 --Amazement Assistant <Delia>
 --Scripted by Eerie Code

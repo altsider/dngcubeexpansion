@@ -8,6 +8,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --シューティング・セイヴァー・スター・ドラゴン
 --Shooting Majestic Star Dragon
 --Scripted by Eerie Code

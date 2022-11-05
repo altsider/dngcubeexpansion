@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --妬絶の呪眼
 --Evil Eye Defeat
 local s,id=GetID()

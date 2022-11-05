@@ -18,6 +18,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --冥界流傀儡術
 --The Puppet Magic of Dark Ruler
 local s,id=GetID()

@@ -16,6 +16,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --魔救の奇石－レオナイト
 --Adamancipator Crystal - Leonite
 local s,id=GetID()

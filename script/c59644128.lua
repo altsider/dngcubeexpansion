@@ -8,6 +8,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --剛鬼ジェット・オーガ
 --Gouki Jet Ogre
 --

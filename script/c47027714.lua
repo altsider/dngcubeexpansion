@@ -24,6 +24,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --TG ハルバード・キャノン／バスター
 --T.G. Halberd Cannon/Assault Mode
 --Scripted by Eerie Code

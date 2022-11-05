@@ -18,6 +18,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --DDD疾風大王エグゼクティブ・アレクサンダー
 local s,id=GetID()
 function s.initial_effect(c)

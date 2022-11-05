@@ -24,6 +24,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --孤炎星－ロシシン
 --Brotherhood of the Fire Fist - Boar
 local s,id=GetID()

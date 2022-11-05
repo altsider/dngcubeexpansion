@@ -14,6 +14,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --威嚇する咆哮
 --Threatening Roar
 local s,id=GetID()

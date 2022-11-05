@@ -16,6 +16,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 -- 閃刀起動－リンケージ
 -- Sky Striker Mobilize - Linkage!
 -- Scripted by Hatter

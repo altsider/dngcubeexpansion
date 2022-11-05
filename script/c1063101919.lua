@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --マジックテンペスター
 --Tempest Magician
 local s,id=GetID()

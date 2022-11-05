@@ -18,6 +18,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --異次元トンネル－ミラーゲート－
 local s,id=GetID()
 function s.initial_effect(c)

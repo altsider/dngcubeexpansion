@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --No.80 狂装覇王ラプソディ・イン・バーサーク
 local s,id=GetID()
 function s.initial_effect(c)

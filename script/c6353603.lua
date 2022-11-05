@@ -16,6 +16,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --暗炎星－ユウシ
 --Brotherhood of the Fire Fist - Bear
 local s,id=GetID()

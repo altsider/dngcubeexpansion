@@ -22,6 +22,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --シャイニート・マジシャン
 --Slacker Magician
 local s,id=GetID()

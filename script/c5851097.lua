@@ -22,6 +22,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --虚無空間
 --Vanity's Emptiness
 local s,id=GetID()

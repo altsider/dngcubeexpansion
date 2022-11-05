@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --超重武者コブ－C
 --Superheavy Samurai Fist
 local s,id=GetID()

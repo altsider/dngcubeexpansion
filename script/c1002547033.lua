@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --オルターガイスト・ホーンデッドロック
 --Altergeist Haunted Rock
 --scripted by Larry126

@@ -14,6 +14,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --RUM－バリアンズ・フォース
 --Rank-Up-Magic Barian's Force
 local s,id=GetID()

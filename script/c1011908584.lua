@@ -1,7 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --守護竜の核醒
 --Guardragon Corewakening
 --Scripted by Eerie Code

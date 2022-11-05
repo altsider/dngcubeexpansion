@@ -10,6 +10,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ブルーアイズ・カオス・MAX・ドラゴン
 --Blue-Eyes Chaos MAX Dragon
 local s,id=GetID()

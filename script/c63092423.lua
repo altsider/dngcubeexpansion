@@ -20,6 +20,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --弾帯城壁龍
 --Beltlink Wall Dragon
 --

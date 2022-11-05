@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --未み界かい域いきのツチノコ
 --Danger!? Tsuchinoko?
 --Scripted by AlphaKretin

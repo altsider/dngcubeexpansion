@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --炎王の急襲
 --Onslaught of the Fire Kings
 local s,id=GetID()

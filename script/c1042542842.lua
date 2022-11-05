@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --麗の魔妖(まやかし)-妲姫
 --Dakki, the Graceful Mayakashi
 local s,id=GetID()

@@ -22,6 +22,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --レアル・ジェネクス・マグナ
 --R-Genex Magma
 local s,id=GetID()

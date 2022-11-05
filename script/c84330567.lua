@@ -8,6 +8,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 -- ティアラメンツ・ルルカルス
 -- Tearalaments Lulucaros
 -- Scripted by Hatter

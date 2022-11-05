@@ -10,6 +10,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --天威の龍拳聖
 --Tenyi Master of the Dragon Fist
 --Scripted by AlphaKretin

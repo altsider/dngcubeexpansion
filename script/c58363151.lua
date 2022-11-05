@@ -8,6 +8,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ｓ－Ｆｏｒｃｅ プラ＝ティナ
 --Security Force Pla=Tina
 --Logical Nonsense

@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --カオス・ソルジャー －開闢の使者－
 --Black Luster Soldier - Envoy of the Beginning
 

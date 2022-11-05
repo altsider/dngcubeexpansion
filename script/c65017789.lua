@@ -20,6 +20,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --雪天気シエル
 --The Weather Painter Snow
 --Scripted by Eerie Code

@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --暗黒界の龍神 グラファ
 --Grapha, Dragon Lord of Dark World
 local s,id=GetID()

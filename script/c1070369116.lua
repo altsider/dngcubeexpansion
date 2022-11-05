@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --捕食植物ヴェルテ・アナコンダ
 --Predaplant Verte Anaconda
 --scripted by Naim

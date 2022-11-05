@@ -20,6 +20,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ｆ．Ａ．ウィップクロッサー
 --F.A. Whip Crosser
 --Scripted by Eerie Code

@@ -6,6 +6,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --森の聖獣 ヴァレリフォーン
 --Valerifawn, Mystical Beast of the Forest
 local s,id=GetID()

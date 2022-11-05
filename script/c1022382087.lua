@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --風帝家臣ガルーム
 --Garum the Storm Vassal
 local s,id=GetID()

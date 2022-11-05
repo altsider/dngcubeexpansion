@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --戦華史略－十万之矢
 --Ancient Warriors Saga - Borrowing of Arrows
 --Scripted by Larry126

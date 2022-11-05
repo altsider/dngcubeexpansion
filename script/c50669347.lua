@@ -20,6 +20,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --守護神-ネフティス
 --Nephthys, the Sacred Preserver
 --Scripted by Eerie Code

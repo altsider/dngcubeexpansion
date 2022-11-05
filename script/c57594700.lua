@@ -18,6 +18,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --幻奏の音姫マイスタリン・シューベルト
 local s,id=GetID()
 function s.initial_effect(c)

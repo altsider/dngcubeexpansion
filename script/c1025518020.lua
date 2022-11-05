@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --マシン・デベロッパー
 --Machine Assembly Line
 local s,id=GetID()

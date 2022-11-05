@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --鉄騎龍ティアマトン
 --Iron Dragon Tiamaton
 local s,id=GetID()

@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 -- Ｓ－Ｆｏｒｃｅ ラプスウェル
 -- S-Force Lapswell
 -- Scripted by Hatter

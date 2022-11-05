@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 -- Ｕｋ－Ｐ.Ｕ.Ｎ.Ｋ.娑楽斎
 -- Ukiyoe P.U.N.K. Sharakusai
 -- Scripted by Hatter

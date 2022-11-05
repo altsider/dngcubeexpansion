@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --鎧黒竜－サイバー・ダーク・ドラゴン
 --Cyberdark Dragon
 local s,id=GetID()

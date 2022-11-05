@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --No.9 天蓋星ダイソン・スフィア
 --Number 9: Dyson Sphere
 local s,id=GetID()

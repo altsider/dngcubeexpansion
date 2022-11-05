@@ -1,7 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --魔導書の神判
 --Spellbook of Judgment
 local s,id=GetID()

@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --破壊神 ヴァサーゴ
 local s,id=GetID()
 function s.initial_effect(c)

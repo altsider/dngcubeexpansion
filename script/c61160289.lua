@@ -12,6 +12,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --溟界妃－アミュネシア
 --Amunessia, the Ogdoadic Queen
 --Scripted by The Razgriz

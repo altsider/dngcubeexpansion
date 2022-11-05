@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --フェイバリット・ヒーロー
 --Favorite Hero
 --Scripted by Randuin and AlphaKretin

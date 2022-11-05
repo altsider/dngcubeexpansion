@@ -18,6 +18,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --始原竜プライマル・ドラゴン
 --Primal Dragon the Primordial Dragon
 --Logical Nonsense

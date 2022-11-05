@@ -6,6 +6,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --破械神ラギア
 --Unchained Soul of Rage
 --Scripted by Eerie Code, edo9300 and Naim

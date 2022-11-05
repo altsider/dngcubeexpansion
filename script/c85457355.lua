@@ -18,6 +18,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --変容王 ヘル・ゲル
 --Morph King Stygi-Gel
 --Scripted by AlphaKretin

@@ -10,6 +10,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ｇゴーレム・インヴァリッド・ドルメン
 --G Golem Invalid Dolmen
 --Scripted by The Razgriz

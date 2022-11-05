@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --スターダスト・ドラゴン／バスター
 --Stardust Dragon/Assault Mode
 local s,id=GetID()

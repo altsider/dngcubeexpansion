@@ -20,6 +20,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --古生代化石竜 スカルギオス
 --Fossil Dragon Skullgios
 --Scripted by Eerie Code

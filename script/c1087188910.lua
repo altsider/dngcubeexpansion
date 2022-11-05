@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --飢鰐竜アーケティス
 --Ravenous Crocodragon Archethys
 --Scripted by Eerie Code

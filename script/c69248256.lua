@@ -8,6 +8,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 -- 相剣大師－赤霄
 -- Chi Xiao, the Grand Swordsoul Swordmaster
 local s,id=GetID()

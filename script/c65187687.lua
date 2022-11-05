@@ -12,6 +12,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 -- 巨骸竜フェルグラント 
 -- Corpse Dragon Lord Felgrand
 -- Scripted by Hatter

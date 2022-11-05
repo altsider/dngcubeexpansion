@@ -12,6 +12,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --撃滅龍 ダーク・アームド
 --Dark Armed, the Dragon of Annihilation
 --Scripted by ahtelel

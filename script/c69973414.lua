@@ -20,6 +20,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ＢＦ－ツインシャドウ
 --Blackwing - Twin Shadow
 --Scripted by Eerie Code

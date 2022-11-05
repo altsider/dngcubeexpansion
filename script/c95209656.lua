@@ -12,6 +12,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --竜儀巧－メテオニス＝ＱＵＡ
 --Drytron Meteonis Quadrantids
 --Scripted by Naim

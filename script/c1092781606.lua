@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --エクスクローラー・クオリアーク
 --X-Krawler Qualiark
 --Scripted by Eerie Code

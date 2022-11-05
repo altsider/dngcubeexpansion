@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --BF T－漆黒のホーク・ジョー
 --Blackwing Tamer - Obsidian Hawk Joe
 local s,id=GetID()

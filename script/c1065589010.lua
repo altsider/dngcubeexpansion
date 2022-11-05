@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --教導国家ドラグマ
 --Dogmatika Nation
 --Scripted by Eerie Code

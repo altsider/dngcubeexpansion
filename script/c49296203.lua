@@ -16,6 +16,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --カラクリ法師 九七六参
 --Karakuri Monk mdl 9763 "Kunamusan"
 --Script by AlphaKretin

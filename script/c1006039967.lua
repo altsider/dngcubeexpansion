@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ヴァンパイア・フロイライン
 --Vampire Fraulen
 local s,id=GetID()

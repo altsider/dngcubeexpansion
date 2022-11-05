@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --時械神 ラフィオン
 --Raphion, the Timelord
 --Scripted by ahtelel

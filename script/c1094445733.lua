@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 -- 破壊の神碑
 -- Mysterune of Destruction
 -- Scripted by Hatter

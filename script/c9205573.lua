@@ -10,6 +10,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ｅｖｉｌ★Ｔｗｉｎ キスキル
 --Evil★Twin Ki-sikil
 --Scripted by Naim

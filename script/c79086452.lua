@@ -6,6 +6,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ギミック・パペット－ビスク・ドール
 --Gimmick Puppet Bisque Doll
 --Scripted by AlphaKretin

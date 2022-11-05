@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --春化精の暦替
 --Calendar Rotation of the Vernalizer Fairy
 --Scripted by Eerie Code

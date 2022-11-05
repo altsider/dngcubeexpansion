@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --虚光の宣告者
 --Herald of Mirage Lights
 --scripted by Naim

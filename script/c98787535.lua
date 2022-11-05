@@ -6,6 +6,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --溟界の昏闇－アレート
 --Aleirtt, the Ogdoadic Dark
 --scripted by pyrQ

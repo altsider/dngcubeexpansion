@@ -12,6 +12,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ｆ．Ａ．フォーミュラアスリートウィナーズ
 --F.A. Winners
 --Scripted by Eerie Code

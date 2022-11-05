@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --伝説の剣闘士 カオス・ソルジャー
 --The Legendary Swordmaster Black Luster Soldier
 --scripted by pyrQ

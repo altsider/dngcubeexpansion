@@ -14,6 +14,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --速炎星－タイヒョウ
 --Brotherhood of the Fire Fist - Leopard
 local s,id=GetID()

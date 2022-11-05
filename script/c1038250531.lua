@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --紅貴士－ヴァンパイア・ブラム
 --Crimson Knight Vampire Bram
 local s,id=GetID()

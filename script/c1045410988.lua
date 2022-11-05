@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --レッドアイズ・トランスマイグレーション
 --Red-Eyes Transmigration
 local s,id=GetID()

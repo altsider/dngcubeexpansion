@@ -12,6 +12,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --聖天樹の月桂精
 --Sunavalon Daphne
 --Scripted by Eerie Code, based on the anime version

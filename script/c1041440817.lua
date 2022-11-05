@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --心太砲式
 --J.E.L.L.Y. Cannon System
 --Scripted by AlphaKretin

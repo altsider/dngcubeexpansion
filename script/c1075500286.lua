@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --封印の黄金櫃
 local s,id=GetID()
 function s.initial_effect(c)

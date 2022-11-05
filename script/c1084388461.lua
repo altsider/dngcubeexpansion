@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --剣聖の影霊衣－セフィラセイバー
 --Zefrasaber, Swordmaster of the Nekroz
 local s,id=GetID()

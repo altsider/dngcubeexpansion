@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --デストーイ・ファクトリー
 --Frightfur Factory
 local s,id=GetID()

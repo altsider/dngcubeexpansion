@@ -20,6 +20,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ネメシス・コリドー
 --Nemesis Corridor
 --Umbrella scripted by ahtelel, updated by AlphaKretin

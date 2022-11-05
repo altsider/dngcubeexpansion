@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 -- 氷水のトレモラ
 -- Tremolat of the Icejade
 -- Scripted by Hatter

@@ -12,6 +12,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --無限起動コロッサルマウンテン
 --Infinitrack Mountain Smasher
 --Scripted by AlphaKretin

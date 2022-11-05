@@ -12,6 +12,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ｇゴーレム・ディグニファイド・トリリトン
 --G Golem Dignified Trilithon
 --Scripted by Eerie Code, anime version by Larry126

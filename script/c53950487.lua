@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 -- B・F－突撃のヴォウジェ
 -- Battlewasp - Halberd the Charge
 local s,id=GetID()

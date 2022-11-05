@@ -14,6 +14,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --海造賊－白髭の機関士
 --Whitebeard, the Plunder Patroll Helm
 --Scripted by Larry126

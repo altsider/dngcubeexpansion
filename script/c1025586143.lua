@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --捕食植物キメラフレシア
 local s,id=GetID()
 function s.initial_effect(c)

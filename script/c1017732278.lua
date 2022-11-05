@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --N・グロー・モス
 --Neo-Spacian Glow Moss
 local s, id = GetID()

@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --インスタント・ネオスペース
 --Instant Neo Space
 local s,id=GetID()

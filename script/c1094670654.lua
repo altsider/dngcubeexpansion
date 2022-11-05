@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --獣の忍者－獏
 --Beast Ninja Baku
 --scripted by Naim

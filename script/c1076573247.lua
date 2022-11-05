@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --エーリアン・ベーダー
 --Alien Infiltrator
 local s,id=GetID()

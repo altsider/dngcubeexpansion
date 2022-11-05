@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 -- Ｈ－Ｃ クレイヴソリッシュ
 -- Heroic Champion - Claiomh Solais
 local s,id=GetID()

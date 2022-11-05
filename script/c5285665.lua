@@ -16,6 +16,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --E・HERO バブルマン・ネオ
 --Elemental HERO Neo Bubbleman
 local s,id=GetID()

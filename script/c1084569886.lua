@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --DDD超死偉王パープリッシュ・ヘル・アーマゲドン
 --D/D/D Super Doom King Purplish Armageddon
 local s,id=GetID()

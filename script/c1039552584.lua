@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --暗黒界の龍神王 グラファ
 --Grapha, Dragon Overlord of Dark World
 --Scripted by Eerie Code

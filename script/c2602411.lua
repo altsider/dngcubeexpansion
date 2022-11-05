@@ -8,6 +8,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --破壊剣－ウィザードバスターブレード
 --Wizard Buster Destruction Sword
 local s,id=GetID()

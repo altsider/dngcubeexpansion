@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --魔救の奇石－ドラガイト
 --Adamancipator Crystal - Dragite
 --Scripted by Eerie Code

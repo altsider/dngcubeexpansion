@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --冥界の淳一ナイア
 --Nihil, Dreg of the Abhyss
 --scripted by Xylen5967

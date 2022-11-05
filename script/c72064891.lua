@@ -18,6 +18,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --魔道騎竜カース・オブ・ドラゴン
 --Curse of Dragon, the Magical Knight Dragon
 --Scripted by edo9300

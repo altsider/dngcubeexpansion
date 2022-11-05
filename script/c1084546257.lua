@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --海晶乙女コーラルトライアングル
 --Marincess Coral Triangle
 --Scripted by Eerie Code

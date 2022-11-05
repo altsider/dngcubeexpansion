@@ -6,6 +6,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ｔｈｅ ｓｕｐｐｒｅｓｓｉｏｎ ＰＬＵＴＯ
 --The Suppression Pluto
 local s,id=GetID()

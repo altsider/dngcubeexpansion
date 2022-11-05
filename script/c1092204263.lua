@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --紺碧の機界騎士
 --Mekk-Knight Indigo Eclipse
 --Scripted by Eerie Code

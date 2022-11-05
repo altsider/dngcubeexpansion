@@ -1,7 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --サンダー・ドラゴン
 --Thunder Dragon
 local s,id=GetID()

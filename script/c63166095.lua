@@ -8,6 +8,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --閃刀起動－エンゲージ
 --Sky Striker Mobilize - Engage!
 --Scripted by ahtelel

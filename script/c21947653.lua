@@ -12,6 +12,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --E－HERO ライトニング・ゴーレム
 --Evil HERO Lightning Golem
 local s,id=GetID()

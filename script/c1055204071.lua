@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ギミック・パペット－ナイトメア
 --Gimmick Puppet Nightmare
 local s,id=GetID()

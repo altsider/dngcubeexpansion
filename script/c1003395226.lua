@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --幻奏の音姫プロディジー・モーツァルト
 --Mozarta the Melodious Maestra
 local s,id=GetID()

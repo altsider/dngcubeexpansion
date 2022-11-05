@@ -1,7 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --聖蔓の剣士
 --Sunvine Thrasher
 --Scripted by Eerie Code

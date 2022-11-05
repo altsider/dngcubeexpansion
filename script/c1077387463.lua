@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --方界帝ヴァルカン・ドラグニー
 --Vulcan Dragni the Cubic King
 local s,id=GetID()

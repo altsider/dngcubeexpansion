@@ -8,6 +8,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --死祖の隷竜ウォロー
 --Volo, the Doom-Originator Vassal Dragon
 --scripted by pyrQ

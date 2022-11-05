@@ -14,6 +14,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --琰魔竜王 レッド・デーモン・カラミティ
 --Hot Red Dragon Archfiend King Calamity
 local s,id=GetID()

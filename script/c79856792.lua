@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --究極宝玉神 レインボー・ドラゴン
 local s,id=GetID()
 function s.initial_effect(c)

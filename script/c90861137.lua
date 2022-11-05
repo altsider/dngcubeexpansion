@@ -8,6 +8,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --『焔聖剣－ジョワユーズ』
 --"Infernoble Arms - Joyeuse"
 --Scripted by Naim

@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --エクスクローラー・シナプシス
 --X-Krawler Synaphysis
 local s,id=GetID()

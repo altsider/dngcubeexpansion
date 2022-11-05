@@ -14,6 +14,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --スモウ魂ＹＯＫＯ－ＺＵＮＡ
 --Yoko-Zuna Sumo Spirit
 --Scripted by Eerie Code

@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ｕ．Ａ．リベロスパイカー
 --U.A. Libero Spiker
 --Scripted by AlphaKretin

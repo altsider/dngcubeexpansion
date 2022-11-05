@@ -16,6 +16,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 -- Ｓ－Ｆｏｒｃｅ レトロアクティヴ
 -- S-Force Retroactive
 -- Scripted by Hatter

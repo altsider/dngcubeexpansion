@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --EMオッドアイズ・ディゾルヴァー
 --Performapal Odd-Eyes Dissolver
 local s,id=GetID()

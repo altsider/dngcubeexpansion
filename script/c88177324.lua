@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ｎｏ．１０７ 銀河眼の時空竜
 --Number 107: Galaxy-Eyes Tachyon Dragon
 

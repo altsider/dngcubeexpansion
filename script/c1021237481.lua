@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --零式魔導粉砕機
 --Type Zero Magic Crusher
 local s,id=GetID()

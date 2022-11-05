@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ｖ・ＨＥＲＯ ミニマム・レイ
 --Vision HERO Minimum Ray
 --Manga version by Larry126, OCG updates by AlphaKretin

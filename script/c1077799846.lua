@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --廃品眼の太鼓竜
 --Googly-Eyes Drum Dragon
 local s,id=GetID()

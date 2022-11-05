@@ -20,6 +20,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --黄昏の中忍－ニチリン
 --Twilight Ninja Nichirin, the Chunin
 local s,id=GetID()

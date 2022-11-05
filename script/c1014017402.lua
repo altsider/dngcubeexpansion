@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --波動竜騎士 ドラゴエクィテス
 --Dragon Knight Draco-Equiste
 local s,id=GetID()

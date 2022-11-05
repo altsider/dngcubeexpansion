@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --影六武衆－ハツメ
 --Shadow Six Samurai – Hatsume
 local s,id=GetID()

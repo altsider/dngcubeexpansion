@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --BF－逆巻のトルネード
 --Blackwing - Tornado the Reverse Wind
 local s,id=GetID()

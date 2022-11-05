@@ -14,6 +14,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ユベル－Ｄａｓ　Ｅｘｔｒｅｍｅｒ　Ｔｒａｕｒｉｇ　Ｄｒａｃｈｅｎ
 --Yubel - The Ultimate Nightmare
 local s,id=GetID()

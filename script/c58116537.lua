@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --戦華史略－孫劉同盟
 --Ancient Warriors Saga - Sun-Liu Alliance
 --Scripted by AlphaKretin

@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --エーリアン・ソルジャー M/フレーム
 --Alien Shocktrooper Mighty/Frame
 --scripted by Logical Nonsense

@@ -1,7 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --フォトン・サークラー
 --Photon Circle
 local s,id=GetID()

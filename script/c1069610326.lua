@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --覇王眷竜ダークヴルム
 --Supreme King Dragon Darkwurm
 local s,id=GetID(c)

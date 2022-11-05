@@ -22,6 +22,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --閃刀術式－アフターバーナー
 --Sky Striker Maneuver - Afterburners!
 --Scripted by ahtelel

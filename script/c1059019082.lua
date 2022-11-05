@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ライトロード・ウォリアー ガロス
 --Garoth, Lightsworn Warrior
 local s,id=GetID()

@@ -10,6 +10,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --DDD超視王ゼロ・マクスウェル
 --D/D/D Supersight King Zero Maxwell
 local s,id=GetID()

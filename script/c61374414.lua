@@ -6,6 +6,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ＣＸ－Ｎ・Ａｓ・Ｃｈ Ｋｎｉｇｈｔ
 --CXyz - Naphil Asylum Chaos Knight
 --Scripted by Larry126

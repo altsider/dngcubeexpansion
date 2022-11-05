@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --海晶乙女の闘海
 --Marincess Battle Ocean
 --Scripted by Eerie Code, based on Larry126's anime version

@@ -8,6 +8,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --壱時砲固定式
 --Stationary One-o'-Clock Linear Accelerator
 --Scripted by Eerie Code

@@ -22,6 +22,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ａ・Ɐ・ＭＭ
 --Amaze Ɐttraction Majestic Menage
 --Scripted by Eerie Code

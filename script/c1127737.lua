@@ -22,6 +22,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --異次元の古戦場－サルガッソ
 --Sargasso the D.D. Battlefield
 local s,id=GetID()

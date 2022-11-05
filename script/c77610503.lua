@@ -22,6 +22,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 -- ふわんだりぃずと怖い海
 -- Floowandereeze and the Scary Sea
 -- Scripted by Hatter

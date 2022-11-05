@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ｎｏ．１０５ ＢＫ 流星のセスタス
 --Number 105: Battlin' Boxer Star Cestus
 

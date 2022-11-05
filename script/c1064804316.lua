@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ゴーストリック・セイレーン
 --Ghostrick Siren
 --Scripted by Eerie Code

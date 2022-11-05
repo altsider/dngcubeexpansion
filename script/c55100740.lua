@@ -12,6 +12,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --化合獣ハイドロン・ホーク
 --Chemicritter Hydron Hawk
 local s,id=GetID()

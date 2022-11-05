@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --E・HERO マグマ・ネオス
 --Elemental HERO Magma Neos
 local s,id=GetID()

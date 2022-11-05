@@ -1,7 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 -- まどろみの神碑
 -- Mysterune of the Golden Droplets
 -- Scripted by Hatter

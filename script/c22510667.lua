@@ -18,6 +18,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --剛鬼ザ・ソリッド・オーガ
 --Gouki The Solid Ogre
 local s,id=GetID()

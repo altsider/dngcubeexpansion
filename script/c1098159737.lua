@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --天威龍－アーダラ
 --Skyforce Dragon - Adara
 --Scripted by AlphaKretin

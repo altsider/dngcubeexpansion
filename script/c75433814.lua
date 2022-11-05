@@ -8,6 +8,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --No.40 ギミック・パペット－ヘブンズ・ストリングス
 --Number 40: Gimmick Puppet of Strings
 local s,id=GetID()

@@ -12,6 +12,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ｒ－ＡＣＥハイドラント
 --Rescue-ACE Hydrant
 --Scripted by Eerie Code

@@ -1,7 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 -- アラメシアの儀
 -- Rite of Aramesia
 -- Scripted by Hatter

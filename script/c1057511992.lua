@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --海神の依代
 --Yorishiro of the Aqua
 --Scripted by The Razgriz

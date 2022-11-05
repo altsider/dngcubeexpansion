@@ -8,6 +8,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --夢魔鏡の使徒－ネイロイ
 --Neiroy, the Dream Mirror Disciple
 --Scripted by Naim

@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --死皇帝の陵墓
 --Mausoleum of the Emperor
 local s,id=GetID()

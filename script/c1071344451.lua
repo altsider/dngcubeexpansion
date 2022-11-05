@@ -1,7 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --一撃必殺！居合いドロー
 --Slash Draw
 local s,id=GetID()

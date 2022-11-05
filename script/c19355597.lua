@@ -6,6 +6,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ジェムナイトレディ・ブリリアント・ダイヤ
 --Gem-Knight Lady Brilliant Diamond
 local s,id=GetID()

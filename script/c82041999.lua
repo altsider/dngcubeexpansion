@@ -10,6 +10,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 -- Ｊｏ－Ｐ.Ｕ.Ｎ.Ｋ.Ｍｍｅ.スパイダー
 -- Joururi P.U.N.K. Madame Spider
 -- Scripted by Hatter

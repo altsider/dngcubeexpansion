@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ｒ－ＡＣＥヘッドクオーター
 --Rescue-ACE Headquarters
 --scripted by Naim

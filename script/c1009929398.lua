@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ＢＦ－朧影のゴウフウ
 --Blackwing - Gofu the Vague Shadow
 

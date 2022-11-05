@@ -8,6 +8,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --閃刀術式－ベクタードブラスト 
 --Sky Striker Maneuver - Vector Blast
 --scripted by andré

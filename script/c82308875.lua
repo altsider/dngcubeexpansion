@@ -12,6 +12,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ｎｏ．７ ラッキー・ストライプ
 --Number 7: Lucky Straight
 local s,id=GetID()

@@ -24,6 +24,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --X・HERO ワンダー・ドライバー
 --Xtra HERO Wonder Driver
 --Scripted by Eerie Code

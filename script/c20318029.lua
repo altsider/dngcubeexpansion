@@ -16,6 +16,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --雷源龍－サンダー・ドラゴン
 --Thunder Dragonmatrix
 --scripted by AlphaKretin

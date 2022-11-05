@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ヴェンデット・ストリゲス
 --Vendread Striges
 --Scripted by Eerie Code

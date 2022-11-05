@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --超重禽属コカトリウム
 --Cockathorium, the Superheavy Shining Soarer
 --Scripted by Naim

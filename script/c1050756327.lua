@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --魔導原典 クロウリー
 --Crowley the Origin of Prophecy
 --Scripted by Eerie Code

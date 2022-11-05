@@ -14,6 +14,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --剛鬼ザ・パワーロード・オーガ
 --Gouki The Powerload Ogre
 --Anime version by Larry126

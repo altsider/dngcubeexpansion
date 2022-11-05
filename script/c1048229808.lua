@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ホルスの黒炎竜 LV8
 --Horus the Black Flame Dragon LV8
 local s,id=GetID()

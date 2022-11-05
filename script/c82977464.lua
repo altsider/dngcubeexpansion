@@ -18,6 +18,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ｓ－Ｆｏｒｃｅ スペシメン
 --S-Force Specimen
 --Scripted by edo9300

@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 -- 音響戦士ロックス
 -- Symphonic Warrior Rocks
 local s,id=GetID()

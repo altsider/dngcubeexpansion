@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --宇宙の法則
 --Law of the Cosmos
 --Scripted by Eerie Code

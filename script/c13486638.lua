@@ -16,6 +16,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --RR－ファントム・クロー
 --Raidraptor's Phantom Knights Claw
 --Scripted by Eerie Code

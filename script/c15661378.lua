@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --氷獄龍 トリシューラ
 --Trishula, the Dragon of Icy Imprisonment
 --Scripted by Eerie Code fixed by senpaizuri

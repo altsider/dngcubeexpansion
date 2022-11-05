@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --光霊神フォスオラージュ
 --Forceaurage the Elemental Lord
 local s,id=GetID()

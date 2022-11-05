@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ゴッドアイズ・ファントム・ドラゴン
 --All-Eyes Phantom Dragon
 --Scripted by AlphaKretin

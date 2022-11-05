@@ -1,7 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --混沌幻魔アーミタイル
 --Armityle the Chaos Phantom
 local s,id=GetID()

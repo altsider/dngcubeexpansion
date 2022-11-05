@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ｕ．Ａ．ハイパー・スタジアム
 --U.A. Hyper Stadium
 --scripted by Naim

@@ -14,6 +14,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --彼岸の鬼神 ヘルレイカー
 --Malacoda, Netherlord of the Burning Abyss
 local s,id=GetID()

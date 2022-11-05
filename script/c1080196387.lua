@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --天啓の薔薇の鐘
 --Rose Bell of Revelation
 --Scripted by ahtelel

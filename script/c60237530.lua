@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --双天拳 鎧阿
 --Dual Avatar Fists - Armored Ah-Gyo
 --Scripted by edo9300

@@ -6,6 +6,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --鋼鉄の魔導騎士-ギルティギア・フリード
 --Gilti-Gearfried the Magical Steel Knight
 --Scripted by Naim

@@ -6,6 +6,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --転生炎獣 ヴァイオレット・キマイラ
 --Salamangreat Violet Chimera
 local s,id=GetID()

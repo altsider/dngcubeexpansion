@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --鉄獣の邂逅
 --Tri-Brigade Rendezvous
 --Scripted by Hatter

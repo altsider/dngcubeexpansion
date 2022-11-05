@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --グリッド・ロッド
 --Grid Rod
 --scripted by Larry126 and AlphaKretin

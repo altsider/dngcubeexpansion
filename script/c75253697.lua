@@ -6,6 +6,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ｎｏ．７２ ラインモンスター チャリオッツ・飛車
 --Number 72: Shogi Rook
 local s,id=GetID()

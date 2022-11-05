@@ -16,6 +16,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --超重忍者シノビ－Ａ・Ｃ
 --Superheavy Samurai Stealth Ninja
 local s,id=GetID()

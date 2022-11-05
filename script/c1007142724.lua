@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --氷水底イニオン・クレイドル
 --Icejade Cenote Enion Cradle
 --Scripted by Eerie Code

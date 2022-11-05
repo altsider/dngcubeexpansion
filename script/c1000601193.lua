@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --彼岸の詩人 ウェルギリウス
 --Virgil, Rock Star of the Burning Abyss
 local s,id=GetID()

@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --N・アクア・ドルフィン
 --Neo-Spacian Aqua Dolphin
 local s,id=GetID()

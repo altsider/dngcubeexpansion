@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --珠玉獣－アルゴザウルス
 --Jewel Beast - Argosaurus
 --Scripted by AlphaKretin

@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --真六武衆－ミズホ
 local s,id=GetID()
 function s.initial_effect(c)

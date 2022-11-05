@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ｓｉｎ Ｃｒｏｓｓ
 --Malefic Divide
 --Scripted by AlphaKretin, Tag Force version by anonymous

@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ａ宝玉獣サファイア・ペガサス
 --Advanced Crystal Beast Sapphire Pegasus
 --scripted by Naim

@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --マジシャンズ・プロテクション
 --Magicians' Defense
 local s,id=GetID()

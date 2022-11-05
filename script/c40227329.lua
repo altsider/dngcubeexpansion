@@ -8,6 +8,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ＧＯ－ＤＤＤ神零王ゼロゴッド・レイジ
 --Go! - D/D/D Divine Zero King Rage
 --Scripted by Eerie Code

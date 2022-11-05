@@ -10,6 +10,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --炎星仙－ワシンジン
 --Brotherhood of the Fire Fist - Eagle
 --Scripted by Eerie Code

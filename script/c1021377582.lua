@@ -1,7 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --真竜剣皇マスターP
 --Master Peace, the True Dracoslaying King
 local s,id=GetID()

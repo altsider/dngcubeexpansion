@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ボーン・フロム・ドラコニス
 --Born from Draconis
 --Scripted by ahtelel

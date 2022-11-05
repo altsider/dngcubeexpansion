@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ｆ．Ａ．サーキットＧＰ
 --F.A. Circuit Grand Prix
 local s,id=GetID()

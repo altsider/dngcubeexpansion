@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 -- ベアルクティ－グラン＝シャリオ
 -- Ursarctic Grand Chariot
 local s,id=GetID()

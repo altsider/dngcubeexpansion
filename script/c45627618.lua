@@ -10,6 +10,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --覇王黒竜オッドアイズ・リベリオン・ドラゴン
 --Odd-Eyes Rebellion Dragon
 local s,id=GetID()

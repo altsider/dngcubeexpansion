@@ -12,6 +12,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --幻影騎士団ロスト・ヴァンブレイズ
 --The Phantom Knights of Lost Vambrace
 local s,id=GetID()

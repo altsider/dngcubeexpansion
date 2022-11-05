@@ -12,6 +12,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --魔界劇団－コミック・リリーフ
 --Abyss Actor - Comic Relief
 --Scripted by ahtelel

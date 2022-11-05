@@ -20,6 +20,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --巧炎星－エランセイ
 --Brotherhood of the Fire Fist - Eland
 --Scripted by Eerie Code

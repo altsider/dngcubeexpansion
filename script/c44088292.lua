@@ -8,6 +8,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --進化合獣ダイオーキシン
 --Poly-Chemicritter Dioxogre
 local s,id=GetID()

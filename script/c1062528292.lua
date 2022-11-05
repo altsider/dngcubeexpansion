@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --戦華史略-東南之風
 --Ancient Warriors Saga - Southeast Wind
 --Scripted by Larry126

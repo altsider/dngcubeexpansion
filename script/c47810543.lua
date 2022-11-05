@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --魔弾-ブラッディ・クラウン
 --Magical Musket - Crooked Crown
 --Scripted by Eerie Code

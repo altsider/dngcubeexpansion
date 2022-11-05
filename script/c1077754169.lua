@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --超装甲兵器ロボ ブラックアイアンＧ
 --Super Armored Robot Armed Black Iron "C"
 --Updated by DyXel

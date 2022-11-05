@@ -6,6 +6,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ダイナレスラー・イグアノドラッカ
 --Dinowrestler Iguanadracker
 --Scripted by Hel

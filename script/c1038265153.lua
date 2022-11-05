@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --電脳エナジーショック
 --Cyber Energy Shock
 --Logical Nonsense

@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --微炎星－リュウシシン
 --Brotherhood of the Fire Fist - Dragon
 local s,id=GetID()

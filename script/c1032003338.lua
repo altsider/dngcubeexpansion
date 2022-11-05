@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --No.34 電算機獣テラ・バイト
 local s,id=GetID()
 function s.initial_effect(c)

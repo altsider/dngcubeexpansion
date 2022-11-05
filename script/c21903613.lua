@@ -22,6 +22,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --森羅の舞踏娘－ピオネ
 --Pione, the Sylvan Dancer
 --scripted by pyrQ

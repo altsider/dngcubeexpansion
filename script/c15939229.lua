@@ -16,6 +16,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --DDD双暁王カリ・ユガ
 --D/D/D Duo-Dawn King Kali Yuga
 local s,id=GetID()

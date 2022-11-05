@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --夢魔鏡の天魔－ネイロス
 --Oneiros, the Dream Mirror Erlking
 --Scripted by Eerie Code

@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --No.89 電脳獣ディアブロシス
 --Number 89: Diablosis the Mind Hacker
 local s,id=GetID()

@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --XYZ－ドラゴン・キャノン
 --XYZ-Dragon Cannon
 local s,id=GetID()

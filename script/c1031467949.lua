@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --空牙団の飛哨 リコン
 --Recon, Skyscout of the Skyfang Brigade
 --

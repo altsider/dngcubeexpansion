@@ -20,6 +20,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ダイナレスラー・ギガ・スピノサバット
 --Dinowrestler Giga Spinosavate
 local s,id=GetID()

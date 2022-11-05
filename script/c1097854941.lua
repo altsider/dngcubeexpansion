@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ワルキューレ・シグルーン
 --Valkyrie Sigrun
 --scripted by Logical Nonsense

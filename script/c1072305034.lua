@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --重起士道－ゴルドナイト
 --Geminize Lord Golknight
 --Scripted by Eerie Code

@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --B・F－決戦のビッグ・バリスタ
 --Battlewasp - Ballista the Armageddon
 --Scripted by Eerie Code

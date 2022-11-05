@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --天翔の竜騎士ガイア
 --Sky Galloping Gaia the Dragon Champion
 local s,id=GetID()

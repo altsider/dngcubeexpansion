@@ -18,6 +18,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ｅ・ＨＥＲＯ スピリット・オブ・ネオス
 --Elemental HERO Spirit of Neos
 --Scripted by Eerie Code

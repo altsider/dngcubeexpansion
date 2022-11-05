@@ -22,6 +22,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 -- 相剣瑞獣－純鈞
 -- Chun Jun, the Xiangjian Auspicious Beast
 -- Scripted by Hatter

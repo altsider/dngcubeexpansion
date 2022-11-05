@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ブルーアイズ・トゥーン・ドラゴン
 --Blue-Eyes Toon Dragon
 local s,id=GetID()

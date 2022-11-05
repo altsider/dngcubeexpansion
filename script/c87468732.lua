@@ -8,6 +8,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --変導機咎 クロックアーク
 --Clock Arc, the Fluctuerror Orchanism
 --Scripted by Eerie Code

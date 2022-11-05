@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --毒蛇神ヴェノミナーガ
 --Vennominaga the Deity of Poisonous Snakes
 local s,id=GetID()

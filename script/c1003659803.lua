@@ -1,7 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --オーバーロード・フュージョン
 --Overload Fusion
 local s,id=GetID()

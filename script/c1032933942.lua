@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --宝玉獣 アメジスト・キャット
 --Crystal Beast Amethyst Cat
 local s,id=GetID()

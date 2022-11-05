@@ -20,6 +20,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ＳＰＹＲＡＬ ＧＥＡＲ－エクストラアームズ
 --SPYRAL GEAR - Fully Armed
 local s,id=GetID()

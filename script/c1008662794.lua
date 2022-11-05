@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --コードブレイカー・ゼロデイ
 --Codebreaker Zero Day
 --Anime script by Larry126, updated by AlphaKretin

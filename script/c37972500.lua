@@ -22,6 +22,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --グランドレミコード・ミューゼシア
 --Grandoremichord Musesea
 --Scripted by Eerie Code

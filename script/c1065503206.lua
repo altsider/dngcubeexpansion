@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --スクラップ・ソルジャー
 --Scrap Soldier
 local s,id=GetID()

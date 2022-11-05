@@ -22,6 +22,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --SNo.39 希望皇ホープ・ザ・ライトニング
 --Number S39: Utopia the Lightning
 local s,id=GetID()

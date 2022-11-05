@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --魔界劇団－ティンクル・リトルスター
 local s,id=GetID()
 function s.initial_effect(c)

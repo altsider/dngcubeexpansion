@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --森羅の賢樹 シャーマン
 local s,id=GetID()
 function s.initial_effect(c)

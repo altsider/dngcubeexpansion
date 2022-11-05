@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --トリックスター・デビルフィニウム
 --Trickstar Delfiendium
 local s,id=GetID()

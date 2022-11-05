@@ -8,6 +8,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --魔弾－デッドマンズ・バースト
 --Magibullet - Deadman's Burst
 --Scripted by Eerie Code

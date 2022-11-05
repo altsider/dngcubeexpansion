@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --破壊剣士の守護絆竜
 --Protector Whelp of the Destruction Swordsman
 --Logical Nonsense

@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --方界超帝インディオラ・デス・ボルト
 --Indiora Doom Volt the Cubic Emperor
 local s,id=GetID()

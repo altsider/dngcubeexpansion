@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --天空神騎士ロードパーシアス
 --Celestial Knight Lord Parshath
 --Scripted by Eerie Code

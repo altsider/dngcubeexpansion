@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --覇王眷竜オッドアイズ
 --Supreme King Dragon Odd-Eyes
 local s,id=GetID()

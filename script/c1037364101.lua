@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ストイック・チャレンジ
 --Stoic Challenge
 local s,id=GetID()

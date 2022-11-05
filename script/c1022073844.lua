@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --教導枢機テトラドラグマ
 --Dogmatika Nexus
 --Scripted by Eerie Code

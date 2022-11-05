@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --起動指令 ギア・チャージ
 --Boot-Up Order - Gear Charge
 --Scripted by AlphaKretin

@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --深夜急行騎士ナイト・エクスプレス・ナイト
 local s,id=GetID()
 function s.initial_effect(c)

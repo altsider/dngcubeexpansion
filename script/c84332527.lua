@@ -12,6 +12,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 -- セリオンズ“ブルズ”アイン
 -- Therions’ "Bulls" Ein
 -- Scripted by Hatter

@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --呪眼の女王 ゴルゴーネ
 --Gorgon, Empress of the Evil Eyed
 --Scripted by Eerie Code

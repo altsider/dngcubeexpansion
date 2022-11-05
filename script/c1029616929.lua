@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --蟲惑の落とし穴
 --Traptrix Trap Hole Nightmare
 local s,id=GetID()

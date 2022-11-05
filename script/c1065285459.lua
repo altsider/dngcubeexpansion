@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --聖天樹の大精霊
 --Sunavalon Dryanome
 --Scripted by Eerie Code, partially based on the anime script

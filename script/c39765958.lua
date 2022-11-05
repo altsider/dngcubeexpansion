@@ -20,6 +20,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --琰魔竜 レッド・デーモン
 --Hot Red Dragon Archfiend
 local s,id=GetID()

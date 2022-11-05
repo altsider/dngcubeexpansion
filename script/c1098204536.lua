@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --先史遺産驚神殿－トリリトン
 --Chronomaly Palace Trilithon
 --scripted by pyrQ

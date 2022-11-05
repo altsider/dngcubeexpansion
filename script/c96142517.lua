@@ -6,6 +6,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --RUM－千死蛮巧
 --Rank-Up-Magic Admiration of the Thousands
 local s,id=GetID()

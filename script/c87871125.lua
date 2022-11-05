@@ -6,6 +6,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --転生炎獣サンライトウルフ
 --Salamangreat Sunlight Wolf
 --Scripted by Eerie Code

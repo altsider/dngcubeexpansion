@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --BF - フルアーマード・ウィング
 --Blackwing Full Armor Master
 --Scripted by ahtelel

@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Number C5: Chaos Chimera Dragon
 --CNo.5 亡朧龍カオス・キマイラ・ドラゴン
 local s,id=GetID()

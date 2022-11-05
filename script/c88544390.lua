@@ -22,6 +22,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --幻影騎士団ステンドグリーブ
 --The Phantom Knights of Stained Greaves
 --Scripted by Larry126

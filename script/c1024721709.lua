@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --救魔の標
 --Guidance of Spell Salvation
 --Scripted by ahtelel

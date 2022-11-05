@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --魔救の奇石－ラプタイト
 --Adamancipator Crystal - Raptite
 --Scripted by AlphaKretin

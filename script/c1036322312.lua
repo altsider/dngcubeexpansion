@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --起動提督デストロイリボルバー
 --Boot-Up Admiral - Destroyer Dynamo
 --Scripted by Hel

@@ -16,6 +16,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --クリアウィング・シンクロ・ドラゴン
 --Clear Wing Synchro Dragon
 local s,id=GetID()

@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --戦華盟将－双龍
 --Ancient Warriors Oath - Double Dragon Lords
 --Scripted by Larry126

@@ -10,6 +10,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --驚楽園の大使 <Bufo>
 --Amazement Ambassador <Bufo>
 --Scripted by Eerie Code

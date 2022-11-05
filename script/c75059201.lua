@@ -10,6 +10,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ｆ．Ａ．ターボチャージャー
 --F.A. Turbo Charger
 --Scripted by Eerie Code

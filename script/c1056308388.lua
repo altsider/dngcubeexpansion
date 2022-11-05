@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --クロノダイバー・リューズ
 --Time Thief Winder
 local s,id=GetID()

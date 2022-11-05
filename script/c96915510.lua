@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --魔神儀の創造主－クリオルター
 --Crealtar, the Impcantation Originator
 --Scripted by Eerie Code

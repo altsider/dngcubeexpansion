@@ -14,6 +14,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --機巧牙－御神尊真神
 --Gizmek Makami, the Ferocious Fanged Fortress
 --scripted by AlphaKretin

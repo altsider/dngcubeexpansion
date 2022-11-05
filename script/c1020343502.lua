@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ティーチャーマドルチェ・グラスフレ
 --Madolche Teacher Glassouffle
 --Scripted by Eerie Code

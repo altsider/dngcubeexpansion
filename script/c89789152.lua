@@ -6,6 +6,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --タキオン・ギャラクシースパイラル
 --Tachyon Spiral Galaxy
 --Scripted by Eerie Code

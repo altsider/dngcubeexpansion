@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ｕ．Ａ．プレイングマネージャー
 --U.A. Playing Manager
 --Scripted by AlphaKretin

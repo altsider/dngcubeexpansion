@@ -12,6 +12,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --マジシャン・オブ・ブラックカオス・MAX
 --Magician of Black Chaos MAX
 --Scripted by Eerie Code

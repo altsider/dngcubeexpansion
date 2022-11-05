@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --死のデッキ破壊ウイルス
 --Crush Card Virus
 local s,id=GetID()

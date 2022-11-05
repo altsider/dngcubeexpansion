@@ -20,6 +20,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 -- ヴァリアンツＤ－デューク
 -- Valiants' Dominator - Duke
 -- Scripted by Hatter

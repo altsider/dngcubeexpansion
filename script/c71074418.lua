@@ -14,6 +14,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ウィッチクラフトゴーレム・アルル
 --Witchcrafter Golem Aruru
 local s,id=GetID()

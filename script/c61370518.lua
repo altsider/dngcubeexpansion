@@ -4,6 +4,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --迅雷の魔王－スカル・デーモン
 --Skull Archfiend of Lightning
 local s,id=GetID()

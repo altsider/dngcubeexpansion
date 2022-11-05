@@ -1,7 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --ファイアフェニックス＠イグニスター
 --Fire Phoenix @Ignister
 --Scripted by EerieCode, based on the anime script by Larry126

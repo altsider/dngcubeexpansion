@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --妖仙獣の風祀り
 --Yosenju Wind Ritual
 --scripted by Naim

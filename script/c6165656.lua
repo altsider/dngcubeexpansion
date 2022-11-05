@@ -10,6 +10,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --CNo.88 ギミック・パペット－ディザスター・レオ
 --Number C88: Gimmick Puppet Disaster Leo
 local s,id=GetID()

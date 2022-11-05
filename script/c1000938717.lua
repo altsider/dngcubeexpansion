@@ -2,6 +2,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --起動兵長コマンドリボルバー
 --Boot-Up Corporal - Command Dynamo
 --Scripted by AlphaKretin

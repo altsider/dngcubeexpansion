@@ -6,6 +6,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --No.42 スターシップ・ギャラクシー・トマホーク
 --Number 42: Galaxy Tomahawk
 local s,id=GetID()

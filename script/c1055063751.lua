@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --海亀壊獣ガメシエル
 --Gameciel, the Sea Turtle Kaiju
 local s,id=GetID()

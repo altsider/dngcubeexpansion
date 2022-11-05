@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ＷＷ－ブリザード・ベル
 --Windwitch - Blizzard Bell
 --Logical Nonsense

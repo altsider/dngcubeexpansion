@@ -10,6 +10,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --魔鍵変鬼－トランスフルミネ
 --Magikey-Mutated Ogre - Transfurmine
 --scripted by the Razgriz

@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --インフェルニティ・セイジ
 --Infernity Sage
 --Logical Nonsense

@@ -18,6 +18,8 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ワールド・ダイナ・レスリング
 --World Dino Wrestling
 --anime version scripted by Larry126, updates by Naim
