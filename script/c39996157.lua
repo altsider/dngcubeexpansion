@@ -2,8 +2,6 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --機械天使の儀式
 local s,id=GetID()
 function s.initial_effect(c)

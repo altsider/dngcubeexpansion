@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --B・F－追撃のダート
 --Battlewasp - Dart the Hunter
 --Scripted by Eerie Code

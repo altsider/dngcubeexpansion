@@ -1,7 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --Ｘ・Ｙ・Ｚコンバイン
 --XYZ Combine
 --Scripted by Eerie Code

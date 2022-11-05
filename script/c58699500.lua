@@ -2,8 +2,6 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --彼岸の黒天使 ケルビーニ
 --Cherubini, Ebon Angel of the Burning Abyss
 --Scripted by Eerie Code

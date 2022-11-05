@@ -2,10 +2,6 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --マドルチェ・エンジェリー
 --Madolche Anjelly
 

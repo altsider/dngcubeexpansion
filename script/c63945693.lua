@@ -1,9 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --虹の架け橋
 --Rainbow Bridge
 --Scripted by Eerie Code

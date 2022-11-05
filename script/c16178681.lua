@@ -4,6 +4,10 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --オッドアイズ・ペンデュラム・ドラゴン
 --Odd-Eyes Pendulum Dragon
 local s,id=GetID()

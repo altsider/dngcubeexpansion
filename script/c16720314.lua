@@ -1,11 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
-Duel.LoadScript("cube-attrib-rotation.lua")
-
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --スマイル・ポーション
 --Smile Potion
 --Scripted by Eerie Code

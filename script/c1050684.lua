@@ -1,11 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
-Duel.LoadScript("cube-attrib-rotation.lua")
-
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --スクラップ・エリア
 --Scrapyard
 local s,id=GetID()

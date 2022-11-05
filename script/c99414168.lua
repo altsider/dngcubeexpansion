@@ -4,8 +4,6 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --精霊術師 ドリアード
 local s,id=GetID()
 function s.initial_effect(c)

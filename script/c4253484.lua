@@ -1,9 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --剣闘獣ホプロムス
 local s,id=GetID()
 function s.initial_effect(c)

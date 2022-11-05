@@ -1,5 +1,9 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --レフトハンド・シャーク
 --Left Hand Shark
 --Logical Nonsense

@@ -1,7 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --教導の騎士フルルドリス
 --Dogmatika Fleurdelis, the Knighted
 --Logical Nonsense

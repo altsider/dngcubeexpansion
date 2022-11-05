@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --聖光の夢魔鏡
 --Dream Mirror of Joy
 --Scripted by Naim

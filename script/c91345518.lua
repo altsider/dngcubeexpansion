@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --裁きの代行者 サターン
 --The Agent of Judgment - Saturn
 local s,id=GetID()

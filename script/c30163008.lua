@@ -4,8 +4,6 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --Ra'ten, the Heavenly General
 --Scripted by Eerie Code
 local s,id=GetID()

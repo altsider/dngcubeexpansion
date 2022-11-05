@@ -2,8 +2,6 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --ジェネレーション・ネクスト
 --Generation Next
 --Scripted by Eerie Code

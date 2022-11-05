@@ -1,9 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --トゥルース・リインフォース
 --Reinforce Truth
 local s,id=GetID()

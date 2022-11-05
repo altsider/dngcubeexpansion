@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --大砂海ゴールド・ゴルゴンダ
 --Vast Desert Gold Golgonda
 --Scripted by Hatter

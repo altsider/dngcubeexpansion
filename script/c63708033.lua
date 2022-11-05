@@ -1,11 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
-Duel.LoadScript("cube-attrib-rotation.lua")
-
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 -- 春化精と花蕾
 -- Vernalizer Fairy and Flower Buds
 -- Scripted by Hatter

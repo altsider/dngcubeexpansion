@@ -1,11 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
-Duel.LoadScript("cube-attrib-rotation.lua")
-
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --逢華妖麗譚－魔妖語
 --Ghost Meets Girl - A Mayakashi's Story
 --Scripted by Eerie Code

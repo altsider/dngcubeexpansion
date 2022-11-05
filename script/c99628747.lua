@@ -2,8 +2,6 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --メガリス・ベトール
 --Megalith Bethor
 --Scripted by AlphaKretin, Ritual Summon effect by ahtelel

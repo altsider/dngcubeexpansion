@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --Ｎ・Ａｓ・Ｈ Ｋｎｉｇｈｔ
 --Nafil Asylum Heth Knight
 local s,id=GetID()

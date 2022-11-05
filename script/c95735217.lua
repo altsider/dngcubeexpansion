@@ -1,9 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --古代の機械巨人－アルティメット・パウンド
 local s,id=GetID()
 function s.initial_effect(c)

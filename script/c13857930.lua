@@ -4,8 +4,6 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --N・ティンクル・モス
 --Neo-Spacian Twinkle Moss
 local s,id=GetID()

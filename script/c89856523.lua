@@ -2,6 +2,10 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --罡炎星－リシュンキ
 --Brotherhood of the Fire Fist - Kirin
 local s,id=GetID()

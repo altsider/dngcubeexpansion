@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --No.65 裁断魔人ジャッジ・バスター
 local s,id=GetID()
 function s.initial_effect(c)

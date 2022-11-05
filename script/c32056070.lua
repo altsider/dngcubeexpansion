@@ -4,8 +4,6 @@ Duel.LoadScript("cube-attrib-rotation.lua")
 
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --ユウ-Ai-
 --You & A.I.
 --Scripted by Eerie Code

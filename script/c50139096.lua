@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --破滅の天使ルイン
 --Ruin, Angel of Oblivion
 --Scripted by ahtelel

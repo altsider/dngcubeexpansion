@@ -1,7 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --アルバスの落胤
 --Fallen of Albaz
 --Scripted by Eerie Code
