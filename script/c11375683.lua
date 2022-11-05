@@ -1,5 +1,11 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ティンダングル・トリニティ
 --Tindangle Trinity
 --Script by nekrozar

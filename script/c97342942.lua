@@ -1,5 +1,11 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --エクトプラズマー
 --Ectoplasmer
 local s,id=GetID()

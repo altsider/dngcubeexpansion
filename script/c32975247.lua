@@ -1,5 +1,11 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --神竜 ティタノマキア
 --Divine Dragon Titanomakhia
 --scripted by pyrQ

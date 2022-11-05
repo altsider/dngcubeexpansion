@@ -1,5 +1,11 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --神の宣告
 --Solemn Judgment
 local s,id=GetID()

@@ -1,5 +1,11 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 -- 機怪獣ダレトン
 -- Mechabeast Dareton
 -- Scripted by Hatter

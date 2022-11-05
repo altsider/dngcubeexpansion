@@ -1,5 +1,9 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --VV-真羅万象
 --Valiants Vorld - Shinrabansho
 --Scripted by Eerie Code

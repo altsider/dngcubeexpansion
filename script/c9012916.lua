@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --ブラックフェザー・ドラゴン
 --Black-Winged Dragon
 local s,id=GetID()

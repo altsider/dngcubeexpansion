@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --神聖魔皇后セレーネ
 --Selene, Queen of the Master Magicians
 --Scripted by AlphaKretin

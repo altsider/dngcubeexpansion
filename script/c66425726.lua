@@ -1,5 +1,7 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --オッドアイズ・ペンデュラムグラフ・ドラゴン
 --Odd-Eyes Pendulumgraph Dragon
 --Scripted by Larry126

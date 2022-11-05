@@ -1,5 +1,9 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --魔導召喚士 テンペル
 --Temperance of Prophecy
 local s,id=GetID()

@@ -1,5 +1,9 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
+Duel.LoadScript("cube-attrib-rotation.lua")
+
+Duel.LoadScript("cube-attrib-rotation.lua")
+
 --No.103 神葬零嬢ラグナ・ゼロ
 --Number 103: Ragnazero
 local s,id=GetID()
