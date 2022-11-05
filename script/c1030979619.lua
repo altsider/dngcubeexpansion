@@ -1,7 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --SPYRAL GEAR - Big Red
 local s,id=GetID()
 function s.initial_effect(c)

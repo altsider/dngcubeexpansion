@@ -1,7 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --サイバー・ダーク・エッジ
 --Cyberdark Edge
 local s,id=GetID()

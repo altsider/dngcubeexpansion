@@ -1,7 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --天球の聖刻印
 --Hieratic Seal of the Heavenly Spheres
 --Scripted by Eerie Code

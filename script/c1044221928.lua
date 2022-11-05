@@ -1,7 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --Breath of Acclamation
 local s,id=GetID()
 function s.initial_effect(c)

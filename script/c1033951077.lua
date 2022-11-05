@@ -1,7 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --スーパー・ウォー・ライオン
 local s,id=GetID()
 function s.initial_effect(c)

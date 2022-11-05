@@ -1,7 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --EMオッドアイズ・シンクロン
 --Performapal Odd-Eyes Synchron
 local s,id=GetID()

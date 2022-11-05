@@ -1,7 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
 
-Duel.LoadScript("cube-attrib-rotation.lua")
-
 --Ｌｉｖｅ☆Ｔｗｉｎ リィラ
 --Live☆Twin Lil-la
 --Logical Nonsense
