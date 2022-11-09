@@ -1,5 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
-Duel.LoadScript("./cube/script/card_counter_constants.lua")
+Duel.LoadScript("card_counter_constants.lua")
 --終焉の王デミス
 local s,id=GetID()
 function s.initial_effect(c)
@@ -15,7 +15,7 @@ function s.initial_effect(c)
 	e1:SetOperation(s.operation)
 	c:RegisterEffect(e1)
 end
-s.listed_names={8198712}
+s.listed_names={1108198712}
 function s.cost(e,tp,eg,ep,ev,re,r,rp,chk)
 	if chk==0 then return Duel.CheckLPCost(tp,2000)
 	else Duel.PayLPCost(tp,2000) end

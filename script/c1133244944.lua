@@ -1,5 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
-Duel.LoadScript("./cube/script/card_counter_constants.lua")
+Duel.LoadScript("card_counter_constants.lua")
 --エクゾディアとの契約
 local s,id=GetID()
 function s.initial_effect(c)
@@ -13,7 +13,7 @@ function s.initial_effect(c)
 	e1:SetOperation(s.activate)
 	c:RegisterEffect(e1)
 end
-s.listed_names={12600382,8124921,44519536,70903634,7902349,33396948}
+s.listed_names={1112600382,1108124921,1144519536,1170903634,1107902349,1133396948}
 function s.condition(e,tp,eg,ep,ev,re,r,rp)
 	return Duel.IsExistingMatchingCard(Card.IsCode,tp,LOCATION_GRAVE,0,1,nil,8124921)
 		and Duel.IsExistingMatchingCard(Card.IsCode,tp,LOCATION_GRAVE,0,1,nil,44519536)

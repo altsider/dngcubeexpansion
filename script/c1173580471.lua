@@ -1,5 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
-Duel.LoadScript("./cube/script/card_counter_constants.lua")
+Duel.LoadScript("card_counter_constants.lua")
 --ブラック・ローズ・ドラゴン
 local s,id=GetID()
 function s.initial_effect(c)

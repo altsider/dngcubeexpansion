@@ -1,5 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
-Duel.LoadScript("./cube/script/card_counter_constants.lua")
+Duel.LoadScript("card_counter_constants.lua")
 --破滅の女神ルイン
 local s,id=GetID()
 function s.initial_effect(c)
@@ -13,7 +13,7 @@ function s.initial_effect(c)
 	e1:SetOperation(s.atop)
 	c:RegisterEffect(e1)
 end
-s.listed_names={8198712}
+s.listed_names={1108198712}
 function s.atcon(e,tp,eg,ep,ev,re,r,rp)
 	return aux.bdocon(e,tp,eg,ep,ev,re,r,rp) and e:GetHandler():CanChainAttack()
 end

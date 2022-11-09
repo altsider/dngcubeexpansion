@@ -1,5 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
-Duel.LoadScript("./cube/script/card_counter_constants.lua")
+Duel.LoadScript("card_counter_constants.lua")
 --封印されしエクゾディア
 --Exodia the Forbidden One
 local s,id=GetID()
@@ -13,7 +13,7 @@ function s.initial_effect(c)
 	e1:SetOperation(s.operation)
 	c:RegisterEffect(e1)
 end
-s.listed_names={8124921,44519536,70903634,7902349}
+s.listed_names={1108124921,1144519536,1170903634,1107902349}
 function s.check(g)
 	local a1=false
 	local a2=false

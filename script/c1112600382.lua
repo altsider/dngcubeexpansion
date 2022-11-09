@@ -1,5 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
-Duel.LoadScript("./cube/script/card_counter_constants.lua")
+Duel.LoadScript("card_counter_constants.lua")
 --エクゾディア・ネクロス
 local s,id=GetID()
 function s.initial_effect(c)
@@ -45,7 +45,7 @@ function s.initial_effect(c)
 	e5:SetCondition(s.descon)
 	c:RegisterEffect(e5)
 end
-s.listed_names={8124921,44519536,70903634,7902349,33396948}
+s.listed_names={1108124921,1144519536,1170903634,1107902349,1133396948}
 function s.efdes(e,re)
 	return re:IsActiveType(TYPE_SPELL+TYPE_TRAP)
 end
