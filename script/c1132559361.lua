@@ -41,7 +41,7 @@ function s.initial_effect(c)
 	c:RegisterEffect(e3,false,REGISTER_FLAG_DETACH_XMAT)
 end
 s.xyz_number=9
-s.listed_names={1101992816}
+s.listed_names={1992816}
 function s.target(e,tp,eg,ep,ev,re,r,rp,chk)
 	local c=e:GetHandler()
 	local tc=c:GetBattleTarget()
@@ -66,7 +66,7 @@ function s.damop(e,tp,eg,ep,ev,re,r,rp)
 	Duel.Damage(p,ct*300,REASON_EFFECT)
 end
 function s.damcon(e,tp,eg,ep,ev,re,r,rp)
-	return e:GetHandler():GetOverlayGroup():IsExists(Card.IsCode,1,nil,1101992816)
+	return e:GetHandler():GetOverlayGroup():IsExists(Card.IsCode,1,nil,1992816)
 end
 function s.mxmc(e,tp)
 	return e:GetHandler():GetOverlayCount()

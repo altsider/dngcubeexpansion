@@ -28,7 +28,7 @@ function s.initial_effect(c)
 	c:RegisterEffect(e2)
 end
 s.xyz_number=107
-s.listed_names={1188177324}
+s.listed_names={88177324}
 function s.negcost(e,tp,eg,ep,ev,re,r,rp,chk)
 	if chk==0 then return e:GetHandler():CheckRemoveOverlayCard(tp,1,REASON_COST) end
 	e:GetHandler():RemoveOverlayCard(tp,1,1,REASON_COST)
@@ -72,7 +72,7 @@ function s.aclimit(e,re,tp)
 end
 function s.atkcon(e,tp,eg,ep,ev,re,r,rp)
 	return Duel.IsAbleToEnterBP()
-		and e:GetHandler():GetOverlayGroup():IsExists(Card.IsCode,1,nil,1188177324)
+		and e:GetHandler():GetOverlayGroup():IsExists(Card.IsCode,1,nil,88177324)
 end
 function s.atkcost(e,tp,eg,ep,ev,re,r,rp,chk)
 	if chk==0 then return Duel.CheckReleaseGroupCost(tp,nil,2,false,nil,e:GetHandler()) end

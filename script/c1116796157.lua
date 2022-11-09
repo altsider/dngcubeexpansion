@@ -14,13 +14,13 @@ function s.initial_effect(c)
 	e1:SetOperation(s.thop)
 	c:RegisterEffect(e1)
 end
-s.listed_names={1180208158}
+s.listed_names={80208158}
 function s.thcost(e,tp,eg,ep,ev,re,r,rp,chk)
 	if chk==0 then return e:GetHandler():IsReleasable() end
 	Duel.Release(e:GetHandler(),REASON_COST)
 end
 function s.filter(c)
-	return c:IsCode(1180208158) and c:IsAbleToHand()
+	return c:IsCode(80208158) and c:IsAbleToHand()
 end
 function s.thtg(e,tp,eg,ep,ev,re,r,rp,chk)
 	if chk==0 then return Duel.IsExistingMatchingCard(s.filter,tp,LOCATION_GRAVE+LOCATION_DECK,0,1,nil) end

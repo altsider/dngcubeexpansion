@@ -14,7 +14,7 @@ function s.initial_effect(c)
 	e1:SetOperation(s.spop)
 	c:RegisterEffect(e1)
 end
-s.listed_names={1125652259,1190876561}
+s.listed_names={25652259,90876561}
 function s.cfilter(c)
 	return c:IsFaceup() and c:IsCode(25652259)
 end
