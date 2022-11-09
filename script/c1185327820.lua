@@ -1,5 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
-
+Duel.LoadScript("./cube/script/card_counter_constants.lua")
 --Ａｉの儀式
 --A.I.'s Ritual
 --Scripted by edo9300

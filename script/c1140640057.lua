@@ -1,5 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
-
+Duel.LoadScript("./cube/script/card_counter_constants.lua")
 --クリボー
 --Kuriboh
 local s,id=GetID()

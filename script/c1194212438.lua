@@ -1,5 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
-
+Duel.LoadScript("./cube/script/card_counter_constants.lua")
 --ウィジャ盤
 --Destiny Board
 local s,id=GetID()

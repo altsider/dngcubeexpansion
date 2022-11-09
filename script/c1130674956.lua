@@ -1,5 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
-
+Duel.LoadScript("./cube/script/card_counter_constants.lua")
 --蒼翠の風霊使いウィン
 --Wynn the Wind Charmer, Verdant
 --Scripted by ahtelel

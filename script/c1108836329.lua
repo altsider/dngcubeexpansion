@@ -1,5 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
-
+Duel.LoadScript("./cube/script/card_counter_constants.lua")
 --颶風龍－ビュフォート・ノウェム
 --Raging Storm Dragon - Beaufort IX
 local s,id=GetID()

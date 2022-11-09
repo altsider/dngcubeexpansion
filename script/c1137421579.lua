@@ -1,0 +1,9 @@
+Duel.LoadScript("cube-attrib-rotation.lua")
+Duel.LoadScript("./cube/script/card_counter_constants.lua")
+--炎の騎士 キラー
+local s,id=GetID()
+function s.initial_effect(c)
+	--fusion material
+	c:EnableReviveLimit()
+	Fusion.AddProcMix(c,true,true,36121917,96851799)
+end

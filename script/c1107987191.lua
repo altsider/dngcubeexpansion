@@ -1,5 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
-
+Duel.LoadScript("./cube/script/card_counter_constants.lua")
 --ヴァレルロード・Ｒ・ドラゴン
 --Borreload Riot Dragon
 --Scripted by The Razgriz

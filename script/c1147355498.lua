@@ -1,5 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
-
+Duel.LoadScript("./cube/script/card_counter_constants.lua")
 --王家の眠る谷－ネクロバレー
 --Necrovalley
 local s,id=GetID()

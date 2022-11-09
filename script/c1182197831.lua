@@ -1,5 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
-
+Duel.LoadScript("./cube/script/card_counter_constants.lua")
 --驀進装甲ライノセイバー
 --Rhynosaber, the Mad-Dash Armory
 --Scripted by ahtelel

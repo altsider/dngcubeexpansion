@@ -1,5 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
-
+Duel.LoadScript("./cube/script/card_counter_constants.lua")
 --幽獄の時計塔
 --Clock Tower Prison
 local s,id=GetID()

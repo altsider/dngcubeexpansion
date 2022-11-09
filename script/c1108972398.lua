@@ -1,5 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
-
+Duel.LoadScript("./cube/script/card_counter_constants.lua")
 --妖醒龍ラルバウール
 --Omni Dragon Brotaur
 --Scripted by AlphaKretin

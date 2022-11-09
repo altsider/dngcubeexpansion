@@ -1,5 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
-
+Duel.LoadScript("./cube/script/card_counter_constants.lua")
 --化石融合－フォッシル・フュージョン
 --Fossil Fusion
 --Scripted by Eerie Code and edo9300

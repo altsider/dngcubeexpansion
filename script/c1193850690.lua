@@ -1,5 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
-
+Duel.LoadScript("./cube/script/card_counter_constants.lua")
 --大霊峰相剣門
 --Xiangjianmen the Grand Spiritual Peak
 --Scripted by Larry126

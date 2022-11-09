@@ -1,5 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
-
+Duel.LoadScript("./cube/script/card_counter_constants.lua")
 --降雷皇ハモン
 --Hamon, Lord of Striking Thunder
 local s,id=GetID()

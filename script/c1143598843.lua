@@ -1,5 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
-
+Duel.LoadScript("./cube/script/card_counter_constants.lua")
 --ギミック・パペット－テラー・ベビー
 --Gimmick Puppet Terror Baby
 --Scripted by Eerie Code

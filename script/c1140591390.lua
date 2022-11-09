@@ -1,5 +1,5 @@
 Duel.LoadScript("cube-attrib-rotation.lua")
-
+Duel.LoadScript("./cube/script/card_counter_constants.lua")
 --D－HERO ドレッドガイ
 --Destiny HERO - Dreadmaster
 local s,id=GetID()
