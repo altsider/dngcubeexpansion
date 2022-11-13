@@ -1,3 +1,5 @@
+Duel.LoadScript("cube-attrib-rotation.lua")
+Duel.LoadScript("card_counter_constants.lua")
 --教導の鉄槌テオ
 --Dogmatika Theo, the Iron Punch
 --Scripted by AlphaKretin

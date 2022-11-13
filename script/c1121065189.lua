@@ -1,3 +1,5 @@
+Duel.LoadScript("cube-attrib-rotation.lua")
+Duel.LoadScript("card_counter_constants.lua")
 --ファイアウォール・X・ドラゴン
 --Firewall X Dragon
 --Scripted by Eerie Code

@@ -1,3 +1,5 @@
+Duel.LoadScript("cube-attrib-rotation.lua")
+Duel.LoadScript("card_counter_constants.lua")
 --サイキック・ブロッカー
 local s,id=GetID()
 function s.initial_effect(c)

@@ -44,7 +44,7 @@ function script.apply_change_atk(effect, card)
 	local attack = effect:GetHandler():GetAttack()
 
 	local attribute = Card.GetAttribute(card)
-	local inferior 	= GET_SUPERIOR[attribute]
+	local inferior 	= GET_INFERIOR[attribute]
 
 	if target:IsAttribute(inferior) then
 		attack = attack * 2

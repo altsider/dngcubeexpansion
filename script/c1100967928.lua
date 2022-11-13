@@ -1,3 +1,5 @@
+Duel.LoadScript("cube-attrib-rotation.lua")
+Duel.LoadScript("card_counter_constants.lua")
 --罰ゲーム！
 --Penalty Game!
 local s,id=GetID()

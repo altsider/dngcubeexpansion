@@ -1,3 +1,5 @@
+Duel.LoadScript("cube-attrib-rotation.lua")
+Duel.LoadScript("card_counter_constants.lua")
 --ファイアウォール・ドラゴン
 --Firewall Dragon
 local s,id=GetID()

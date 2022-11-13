@@ -1,3 +1,5 @@
+Duel.LoadScript("cube-attrib-rotation.lua")
+Duel.LoadScript("card_counter_constants.lua")
 --溶岩魔神ラヴァ・ゴーレム
 --Lava Golem
 local s,id=GetID()

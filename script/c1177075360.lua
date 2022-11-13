@@ -1,3 +1,5 @@
+Duel.LoadScript("cube-attrib-rotation.lua")
+Duel.LoadScript("card_counter_constants.lua")
 --ジャンク・スピーダー
 --Junk Speeder
 --Scripted by Cybercatman and AlphaKretin

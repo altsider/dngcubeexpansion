@@ -1,3 +1,5 @@
+Duel.LoadScript("cube-attrib-rotation.lua")
+Duel.LoadScript("card_counter_constants.lua")
 --超魔導竜騎士－ドラグーン・オブ・レッドアイズ
 --Red-Eyes Dark Dragoon
 --Scripted by Naim
