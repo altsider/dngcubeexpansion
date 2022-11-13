@@ -43,10 +43,10 @@ function script.apply_change_atk(effect, card)
 	local target = effect:GetHandler():GetBattleTarget()
 	local attack = effect:GetHandler():GetAttack()
 
-	local attribute = Card.GetAttribute(card)
-	local inferior 	= GET_INFERIOR[attribute]
+	local attribute 	= Card.GetAttribute(card)
+	local inferior_to 	= GET_SUPERIOR[attribute]
 
-	if target:IsAttribute(inferior) then
+	if target:IsAttribute(inferior_to) then
 		attack = attack * 2
 	end
 
