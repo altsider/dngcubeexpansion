@@ -23,7 +23,7 @@ function s.initial_effect(c)
 	e2:SetOperation(s.thop)
 	c:RegisterEffect(e2)
 end
-s.listed_names={6022371}
+s.listed_names={1106022371}
 function s.cfilter(c,code)
 	return c:IsCode(code) and c:IsAbleToDeckAsCost()
 end
@@ -43,7 +43,7 @@ function s.cost(e,tp,eg,ep,ev,re,r,rp,chk)
 	Duel.SendtoDeck(g1,nil,2,REASON_COST)
 end
 function s.filter(c,e,tp)
-	return c:IsCode(6022371) and c:IsCanBeSpecialSummoned(e,0,tp,true,true)
+	return c:IsCode(1106022371) and c:IsCanBeSpecialSummoned(e,0,tp,true,true)
 end
 function s.target(e,tp,eg,ep,ev,re,r,rp,chk)
 	if chk==0 then return Duel.GetLocationCount(tp,LOCATION_MZONE)>0
@@ -60,7 +60,7 @@ function s.activate(e,tp,eg,ep,ev,re,r,rp)
 	end
 end
 function s.thfilter(c)
-	return c:IsCode(6022371,85066822) and c:IsAbleToHand()
+	return c:IsCode(1106022371,85066822) and c:IsAbleToHand()
 end
 function s.thtg(e,tp,eg,ep,ev,re,r,rp,chk)
 	if chk==0 then return Duel.IsExistingMatchingCard(s.thfilter,tp,LOCATION_DECK+LOCATION_GRAVE,0,1,nil) end

@@ -24,9 +24,9 @@ function s.initial_effect(c)
 	e2:SetOperation(s.thop)
 	c:RegisterEffect(e2)
 end
-s.listed_names={11722335}
+s.listed_names={1111722335}
 function s.cfilter(c)
-	return c:IsFaceup() and c:IsCode(11722335)
+	return c:IsFaceup() and c:IsCode(1111722335)
 end
 function s.spcon(e,tp,eg,ep,ev,re,r,rp,chk)
 	return Duel.GetFieldGroupCount(tp,LOCATION_MZONE,0)==1

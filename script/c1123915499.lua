@@ -14,7 +14,7 @@ function s.initial_effect(c)
 	e1:SetOperation(s.operation)
 	c:RegisterEffect(e1)
 end
-s.listed_names={87526784,50319138}
+s.listed_names={1187526784,1150319138}
 function s.spfilter(c,e,tp)
 	return c:IsCode(87526784) and c:IsCanBeSpecialSummoned(e,0,tp,false,false)
 end

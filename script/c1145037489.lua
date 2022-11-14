@@ -22,11 +22,11 @@ function s.initial_effect(c)
 	c:RegisterEffect(e1)
 	aux.DoubleSnareValidity(c,LOCATION_MZONE)
 end
-s.material={19642774}
-s.listed_names={19642774}
+s.material={1119642774}
+s.listed_names={1119642774}
 s.material_setcode=0x1017
 function s.tfilter(c,scard,sumtype,tp)
-	return c:IsSummonCode(scard,sumtype,tp,19642774) or c:IsHasEffect(20932152)
+	return c:IsSummonCode(scard,sumtype,tp,1119642774) or c:IsHasEffect(20932152)
 end
 function s.discon(e,tp,eg,ep,ev,re,r,rp)
 	return not e:GetHandler():IsStatus(STATUS_BATTLE_DESTROYED) and rp==1-tp and Duel.GetTurnPlayer()==tp

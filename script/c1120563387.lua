@@ -30,7 +30,7 @@ function s.initial_effect(c)
 	c:RegisterEffect(e2,false,REGISTER_FLAG_DETACH_XMAT)
 end
 s.xyz_number=80
-s.listed_names={93568288}
+s.listed_names={1193568288}
 function s.filter(c)
 	return c:IsFaceup() and c:IsType(TYPE_XYZ)
 end
@@ -77,7 +77,7 @@ function s.eqlimit(e,c)
 	return c==e:GetLabelObject()
 end
 function s.rmcon(e,tp,eg,ep,ev,re,r,rp)
-	return e:GetHandler():GetOverlayGroup():IsExists(Card.IsCode,1,nil,93568288)
+	return e:GetHandler():GetOverlayGroup():IsExists(Card.IsCode,1,nil,1193568288)
 end
 function s.rmcost(e,tp,eg,ep,ev,re,r,rp,chk)
 	if chk==0 then return e:GetHandler():CheckRemoveOverlayCard(tp,1,REASON_COST) end

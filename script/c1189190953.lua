@@ -10,7 +10,7 @@ function s.initial_effect(c)
 									chkf=FUSPROC_NOTFUSION|FUSPROC_LISTEDMATS,stage2=s.stage2,extraop=Fusion.BanishMaterial,extratg=s.extratg}
 end
 s.listed_series={0x145}
-s.listed_names={6007213,32491822,69890967}
+s.listed_names={1106007213,1132491822,1169890967}
 function s.chlimit(e,ep,tp)
 	return tp==ep
 end
@@ -32,7 +32,7 @@ end
 function s.extratg(e,tp,eg,ep,ev,re,r,rp,chk)
 	if chk==0 then return true end
 	if e:IsHasType(EFFECT_TYPE_ACTIVATE) and e:GetHandler()==e:GetOwner()
-		and Duel.IsExistingMatchingCard(aux.FaceupFilter(Card.IsCode,6007213,32491822,69890967),tp,LOCATION_MZONE,0,1,nil) then
+		and Duel.IsExistingMatchingCard(aux.FaceupFilter(Card.IsCode,1106007213,1132491822,1169890967),tp,LOCATION_MZONE,0,1,nil) then
 		Duel.SetChainLimit(s.chlimit)
 	end
 	Duel.SetOperationInfo(0,CATEGORY_REMOVE,nil,0,tp,LOCATION_HAND+LOCATION_ONFIELD+LOCATION_GRAVE)

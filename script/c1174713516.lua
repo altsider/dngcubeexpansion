@@ -25,7 +25,7 @@ function s.initial_effect(c)
 	e2:SetOperation(s.spop)
 	c:RegisterEffect(e2)
 end
-s.listed_names={1102515}
+s.listed_names={1101102515}
 s.LVnum=1
 s.LVset=0x53
 function s.target(e,tp,eg,ep,ev,re,r,rp,chk)
@@ -46,7 +46,7 @@ function s.spcost(e,tp,eg,ep,ev,re,r,rp,chk)
 	Duel.SendtoGrave(e:GetHandler(),REASON_COST)
 end
 function s.spfilter(c,e,tp)
-	return c:IsCode(1102515) and c:IsCanBeSpecialSummoned(e,1,tp,true,true)
+	return c:IsCode(1101102515) and c:IsCanBeSpecialSummoned(e,1,tp,true,true)
 end
 function s.sptg(e,tp,eg,ep,ev,re,r,rp,chk)
 	local ft=Duel.GetLocationCount(tp,LOCATION_MZONE)

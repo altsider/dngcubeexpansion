@@ -4,7 +4,7 @@ Duel.LoadScript("card_counter_constants.lua")
 --Luminous Dragon Ritual
 local s,id=GetID()
 function s.initial_effect(c)
-	Ritual.AddProcEqualCode(c,4,nil,85346853)
+	Ritual.AddProcEqualCode(c,4,nil,1185346853)
 	--Special summon and treat it as a Ritual summon
 	local e1=Effect.CreateEffect(c)
 	e1:SetDescription(aux.Stringid(id,0))
@@ -16,12 +16,12 @@ function s.initial_effect(c)
 	e1:SetOperation(s.spop)
 	c:RegisterEffect(e1)
 end
-s.listed_names={85346853}
+s.listed_names={1185346853}
 function s.mtfilter(c,e)
 	return c:HasLevel() and c:IsAbleToRemove() and not c:IsImmuneToEffect(e) and aux.SpElimFilter(c,true)
 end
 function s.spfilter(c,e,tp,m)
-	return c:IsCode(85346853) and c:IsCanBeSpecialSummoned(e,SUMMON_TYPE_RITUAL,tp,true,false)
+	return c:IsCode(1185346853) and c:IsCanBeSpecialSummoned(e,SUMMON_TYPE_RITUAL,tp,true,false)
 		and m:CheckWithSumEqual(Card.GetRitualLevel,4,1,99,c)
 end
 function s.sptg(e,tp,eg,ep,ev,re,r,rp,chk)

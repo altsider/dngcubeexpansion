@@ -26,7 +26,7 @@ function s.initial_effect(c)
 	e2:SetCondition(s.ritcon)
 	c:RegisterEffect(e2)
 end
-s.listed_names={21105106}
+s.listed_names={1121105106}
 function s.drcon(e,tp,eg,ep,ev,re,r,rp)
 	return e:GetHandler():IsSummonType(SUMMON_TYPE_RITUAL)
 end

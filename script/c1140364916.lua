@@ -16,7 +16,7 @@ function s.initial_effect(c)
 	e2:SetProperty(EFFECT_FLAG_SINGLE_RANGE)
 	e2:SetCode(EFFECT_CHANGE_CODE)
 	e2:SetRange(LOCATION_SZONE)
-	e2:SetValue(40005099)
+	e2:SetValue(1140005099)
 	c:RegisterEffect(e2)
 	--Prevent the negation of summons
 	local e3=Effect.CreateEffect(c)
@@ -39,7 +39,7 @@ function s.initial_effect(c)
 	e4:SetOperation(s.rmvop)
 	c:RegisterEffect(e4)
 end
-s.listed_names={40005099}
+s.listed_names={1140005099}
 function s.rmvfilter1(c)
 	return c:IsRace(RACE_ZOMBIE) and c:IsAbleToRemoveAsCost()
 end

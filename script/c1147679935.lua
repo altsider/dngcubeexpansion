@@ -33,9 +33,9 @@ function s.initial_effect(c)
 	e5:SetOperation(s.limop2)
 	c:RegisterEffect(e5)
 end
-s.listed_names={86120751}
+s.listed_names={1186120751}
 function s.thfilter(c)
-	return c:IsCode(86120751) and c:IsAbleToHand()
+	return c:IsCode(1186120751) and c:IsAbleToHand()
 end
 function s.activate(e,tp,eg,ep,ev,re,r,rp)
 	if not e:GetHandler():IsRelateToEffect(e) then return end

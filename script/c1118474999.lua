@@ -40,7 +40,7 @@ function s.initial_effect(c)
 	aux.addContinuousLizardCheck(c,LOCATION_MZONE)
 end
 s.listed_series={0x117}
-s.listed_names={18474999}
+s.listed_names={1118474999}
 function s.filter(c,e,tp)
 	return c:IsSetCard(0x117) and not c:IsCode(id) and c:IsCanBeSpecialSummoned(e,0,tp,false,false)
 end

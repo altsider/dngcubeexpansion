@@ -14,7 +14,7 @@ function s.initial_effect(c)
 	c:RegisterEffect(e1)
 end
 s.listed_series={0x3d}
-s.listed_names={63176202}
+s.listed_names={1163176202}
 function s.condition(e,tp,eg,ep,ev,re,r,rp)
 	return Duel.GetCurrentPhase()<PHASE_MAIN2
 end
@@ -40,7 +40,7 @@ function s.activate(e,tp,eg,ep,ev,re,r,rp)
 	end
 end
 function s.filter2(c)
-	return c:IsFaceup() and (c:IsSetCard(0x3d) or c:IsCode(63176202))
+	return c:IsFaceup() and (c:IsSetCard(0x3d) or c:IsCode(1163176202))
 end
 function s.desop(e,tp,eg,ep,ev,re,r,rp)
 	local g=Duel.GetMatchingGroup(s.filter2,tp,LOCATION_MZONE,0,nil)

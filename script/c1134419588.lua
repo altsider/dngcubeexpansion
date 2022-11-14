@@ -28,7 +28,7 @@ function s.initial_effect(c)
 	e3:SetOperation(s.thop)
 	c:RegisterEffect(e3)
 end
-s.listed_names={44632120,71036835,7021574,CARD_KURIBOH,16404809}
+s.listed_names={1144632120,1171036835,1107021574,CARD_KURIBOH,1116404809}
 s.listed_series={0xa4}
 function s.cost(e,tp,eg,ep,ev,re,r,rp,chk)
 	if chk==0 then return e:GetHandler():IsDiscardable() end

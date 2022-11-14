@@ -12,9 +12,9 @@ function s.initial_effect(c)
 	e1:SetOperation(s.operation)
 	c:RegisterEffect(e1)
 end
-s.listed_names={93130021}
+s.listed_names={1193130021}
 function s.filter(c)
-	return c:IsFaceup() and c:IsCode(93130021)
+	return c:IsFaceup() and c:IsCode(1193130021)
 end
 function s.desfilter(c)
 	return c:IsFaceup() and c:IsSpellTrap()
@@ -32,15 +32,15 @@ function s.operation(e,tp,eg,ep,ev,re,r,rp)
 	local t1=Duel.IsExistingMatchingCard(s.desfilter,tp,LOCATION_ONFIELD,LOCATION_ONFIELD,1,e:GetHandler())
 	local t2=Duel.GetLocationCount(tp,LOCATION_MZONE)>0
 		and Duel.IsPlayerCanSpecialSummonMonster(tp,TOKEN_OPTION,0,TYPES_TOKEN,tc:GetAttack(),tc:GetDefense(),tc:GetLevel(),tc:GetRace(),tc:GetAttribute())
-	Duel.Hint(HINT_SELECTMSG,tp,aux.Stringid(93130021,0))
+	Duel.Hint(HINT_SELECTMSG,tp,aux.Stringid(1193130021,0))
 	if t1 and t2 then
-		op=Duel.SelectOption(tp,aux.Stringid(93130021,1),aux.Stringid(93130021,2),aux.Stringid(93130021,3))
+		op=Duel.SelectOption(tp,aux.Stringid(1193130021,1),aux.Stringid(1193130021,2),aux.Stringid(1193130021,3))
 	elseif t1 then
-		op=Duel.SelectOption(tp,aux.Stringid(93130021,1),aux.Stringid(93130021,2))
+		op=Duel.SelectOption(tp,aux.Stringid(1193130021,1),aux.Stringid(1193130021,2))
 	elseif t2 then
-		op=Duel.SelectOption(tp,aux.Stringid(93130021,1),aux.Stringid(93130021,3))
+		op=Duel.SelectOption(tp,aux.Stringid(1193130021,1),aux.Stringid(1193130021,3))
 		if op==1 then op=2 end
-	else op=Duel.SelectOption(tp,aux.Stringid(93130021,1)) end
+	else op=Duel.SelectOption(tp,aux.Stringid(1193130021,1)) end
 	if op==1 then
 		Duel.Hint(HINT_SELECTMSG,tp,HINTMSG_DESTROY)
 		local g=Duel.SelectMatchingCard(tp,s.desfilter,tp,LOCATION_ONFIELD,LOCATION_ONFIELD,1,1,nil)

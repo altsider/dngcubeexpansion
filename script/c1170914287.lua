@@ -42,7 +42,7 @@ function s.initial_effect(c)
 	e5:SetCondition(s.spcon)
 	c:RegisterEffect(e5)
 end
-s.listed_names={44632120,71036835,7021574,34419588,CARD_KURIBOH}
+s.listed_names={1144632120,1171036835,1107021574,1134419588,CARD_KURIBOH}
 s.listed_series={0xa4}
 function s.condition(e,tp,eg,ep,ev,re,r,rp)
 	return Duel.GetMatchingGroupCount(Card.IsMonster,tp,LOCATION_GRAVE,0,nil)>Duel.GetMatchingGroupCount(Card.IsMonster,1-tp,LOCATION_GRAVE,0,nil)

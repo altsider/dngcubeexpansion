@@ -27,7 +27,7 @@ function s.initial_effect(c)
 	e2:SetOperation(s.repop)
 	c:RegisterEffect(e2)
 end
-s.listed_names={15259703,id}
+s.listed_names={1115259703,id}
 
 function s.filter(c)
 	return (c:ListsCode(15259703) or c:IsCode(15259703)) and not c:IsCode(id) and c:IsAbleToHand() 

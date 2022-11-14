@@ -22,7 +22,7 @@ function s.initial_effect(c)
 	c:RegisterEffect(e2)
 end
 s.listed_series={0x3e}
-s.listed_names={47111934}
+s.listed_names={1147111934}
 function s.tgfilter(c)
 	return c:IsSetCard(0x3e) and c:IsRace(RACE_REPTILE) and c:IsAbleToGrave()
 end
@@ -38,5 +38,5 @@ function s.operation(e,tp,eg,ep,ev,re,r,rp)
 	end
 end
 function s.indcon(e)
-	return Duel.IsExistingMatchingCard(aux.FaceupFilter(Card.IsCode,47111934),e:GetOwnerPlayer(),LOCATION_MZONE,0,1,nil)
+	return Duel.IsExistingMatchingCard(aux.FaceupFilter(Card.IsCode,1147111934),e:GetOwnerPlayer(),LOCATION_MZONE,0,1,nil)
 end

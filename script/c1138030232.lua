@@ -38,7 +38,7 @@ function s.initial_effect(c)
 	e3:SetOperation(s.operation)
 	c:RegisterEffect(e3)
 end
-s.listed_names={38030233}
+s.listed_names={1138030233}
 function s.con(e)
 	return Duel.IsExistingMatchingCard(aux.FaceupFilter(Card.IsNonEffectMonster),e:GetHandlerPlayer(),LOCATION_MZONE,0,1,nil)
 end

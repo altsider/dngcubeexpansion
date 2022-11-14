@@ -13,4 +13,4 @@ function s.initial_effect(c)
 	e1:SetValue(0xf)
 	c:RegisterEffect(e1)
 end
-s.listed_names={23965037}
+s.listed_names={1123965037}

@@ -49,7 +49,7 @@ function s.initial_effect(c)
 	e5:SetOperation(s.tgop)
 	c:RegisterEffect(e5)
 end
-s.listed_names={25343280}
+s.listed_names={1125343280}
 function s.condition(e,tp,eg,ep,ev,re,r,rp)
 	return Duel.GetTurnPlayer()~=tp
 end
@@ -92,7 +92,7 @@ function s.sptg(e,tp,eg,ep,ev,re,r,rp,chk)
 	Duel.SetOperationInfo(0,CATEGORY_SPECIAL_SUMMON,nil,1,tp,LOCATION_HAND+LOCATION_DECK)
 end
 function s.spfilter(c,e,tp)
-	return c:IsCode(25343280) and c:IsCanBeSpecialSummoned(e,0,tp,true,false)
+	return c:IsCode(1125343280) and c:IsCanBeSpecialSummoned(e,0,tp,true,false)
 end
 function s.spop(e,tp,eg,ep,ev,re,r,rp)
 	if Duel.GetLocationCount(tp,LOCATION_MZONE)<=0 then return end

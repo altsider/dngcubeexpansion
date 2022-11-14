@@ -29,7 +29,7 @@ function s.initial_effect(c)
 	e3:SetOperation(s.spop2)
 	c:RegisterEffect(e3)
 end
-s.listed_names={71036835,7021574,34419588,70914287,CARD_KURIBOH}
+s.listed_names={1171036835,1107021574,1134419588,1170914287,CARD_KURIBOH}
 s.listed_series={0xa4}
 function s.spcfilter1(c,tp)
 	return c:IsPreviousSetCard(0xa4) and c:IsPreviousControler(tp)

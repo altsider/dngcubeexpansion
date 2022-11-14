@@ -20,7 +20,7 @@ function s.initial_effect(c)
 	c:RegisterEffect(e2)
 end
 s.listed_series={0xf4}
-s.listed_names={86120751}
+s.listed_names={1186120751}
 function s.matfilter(c)
 	return (c:IsLocation(LOCATION_HAND) and c:IsAbleToGrave()) or (c:IsOnField() and c:IsAbleToRemove())
 end
@@ -45,7 +45,7 @@ function s.extratg(e,tp,eg,ep,ev,re,r,rp,chk)
 	Duel.SetPossibleOperationInfo(0,CATEGORY_REMOVE,nil,0,PLAYER_EITHER,LOCATION_MZONE+LOCATION_GRAVE)
 end
 function s.thfilter(c)
-	return c:IsFaceup() and c:IsCode(86120751) and c:IsAbleToDeck()
+	return c:IsFaceup() and c:IsCode(1186120751) and c:IsAbleToDeck()
 end
 function s.tdtg(e,tp,eg,ep,ev,re,r,rp,chk,chkc)
 	if chkc then return chkc:IsLocation(LOCATION_REMOVED) and chkc:IsControler(tp) and s.thfilter(chkc) end

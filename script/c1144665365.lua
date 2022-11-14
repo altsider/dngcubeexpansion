@@ -20,7 +20,7 @@ function s.initial_effect(c)
 	c:RegisterEffect(e1)
 	aux.DoubleSnareValidity(c,LOCATION_MZONE)
 end
-s.listed_names={27383110}
+s.listed_names={1127383110}
 function s.discon(e,tp,eg,ep,ev,re,r,rp)
 	local c=e:GetHandler()
 	if ep==tp or c:IsStatus(STATUS_BATTLE_DESTROYED) then return false end

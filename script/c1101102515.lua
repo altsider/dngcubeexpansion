@@ -16,7 +16,7 @@ function s.initial_effect(c)
 	e1:SetOperation(s.operation)
 	c:RegisterEffect(e1)
 end
-s.listed_names={74713516}
+s.listed_names={1174713516}
 s.LVnum=3
 s.LVset=0x53
 function s.condition(e,tp,eg,ep,ev,re,r,rp)

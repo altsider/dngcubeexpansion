@@ -34,7 +34,7 @@ function s.initial_effect(c)
 	e3:SetOperation(s.tgop)
 	c:RegisterEffect(e3)
 end
-s.listed_names={CARD_RA,id,10000090}
+s.listed_names={CARD_RA,id,1110000090}
 function s.thfilter(c)
 	return (c:IsCode(CARD_RA) or c:ListsCode(CARD_RA)) and not c:IsCode(id) and c:IsAbleToHand()
 end

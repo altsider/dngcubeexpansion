@@ -52,7 +52,7 @@ function s.initial_effect(c)
 	e5:SetOperation(s.spop2)
 	c:RegisterEffect(e5)
 end
-s.listed_names={CARD_RA,10000080}
+s.listed_names={CARD_RA,1110000080}
 function s.cfilter(c,tp)
 	return c:IsCode(CARD_RA) and c:IsControler(tp) and c:IsPreviousLocation(LOCATION_ONFIELD)
 end

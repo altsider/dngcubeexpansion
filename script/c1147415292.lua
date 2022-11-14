@@ -3,7 +3,7 @@ Duel.LoadScript("card_counter_constants.lua")
 --漆黒の闘龍
 local s,id=GetID()
 function s.initial_effect(c)
-	aux.AddUnionProcedure(c,aux.FilterBoolFunction(Card.IsCode,11321183),true)
+	aux.AddUnionProcedure(c,aux.FilterBoolFunction(Card.IsCode,1111321183),true)
 	--atk/def
 	local e3=Effect.CreateEffect(c)
 	e3:SetType(EFFECT_TYPE_EQUIP)
@@ -21,4 +21,4 @@ function s.initial_effect(c)
 	e5:SetCondition(aux.IsUnionState)
 	c:RegisterEffect(e5)
 end
-s.listed_names={11321183}
+s.listed_names={1111321183}

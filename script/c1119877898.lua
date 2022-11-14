@@ -17,7 +17,7 @@ function s.initial_effect(c)
 	e2:SetCode(EFFECT_UPDATE_DEFENSE)
 	c:RegisterEffect(e2)
 end
-s.listed_names={34830502}
+s.listed_names={1134830502}
 s.LVnum=7
 s.LVset=0x5d
 function s.con(e)

@@ -33,7 +33,7 @@ function s.initial_effect(c)
 	e2:SetOperation(s.tdop)
 	c:RegisterEffect(e2)
 end
-s.listed_names={73055622,TOKEN_SHINOBIRD}
+s.listed_names={1173055622,TOKEN_SHINOBIRD}
 function s.tdcon(e,tp,eg,ep,ev,re,r,rp)
 	return e:GetHandler():IsSummonType(SUMMON_TYPE_RITUAL)
 end

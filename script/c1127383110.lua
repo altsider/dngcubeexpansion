@@ -27,10 +27,10 @@ function s.initial_effect(c)
 	c:RegisterEffect(e3)
 	e1:SetLabelObject(e3)
 end
-s.listed_names={44665365}
-s.fit_monster={44665365}
+s.listed_names={1144665365}
+s.fit_monster={1144665365}
 function s.ritualfil(c)
-	return c:IsCode(44665365) and c:IsRitualMonster()
+	return c:IsCode(1144665365) and c:IsRitualMonster()
 end
 function s.stage2(mg,e,tp,eg,ep,ev,re,r,rp,tc)
 	e:GetLabelObject():SetLabelObject(tc)

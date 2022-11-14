@@ -17,7 +17,7 @@ function s.initial_effect(c)
 	Duel.AddCustomActivityCounter(id,ACTIVITY_SPSUMMON,s.counterfilter)
 	Duel.AddCustomActivityCounter(id,ACTIVITY_FLIPSUMMON,s.counterfilter)
 end
-s.listed_names={17418745}
+s.listed_names={1117418745}
 function s.counterfilter(c)
 	return c:IsAttribute(ATTRIBUTE_LIGHT)
 end
