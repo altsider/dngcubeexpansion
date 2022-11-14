@@ -8,8 +8,6 @@ function s.initial_effect(c)
 	--fusion material
 	c:EnableReviveLimit()
 	Fusion.AddProcMix(c,true,true,CARD_DARK_MAGICIAN,{CARD_REDEYES_B_DRAGON,s.ffilter})
-	Debug.Message(CARD_DARK_MAGICIAN)
-	Debug.Message(CARD_REDEYES_B_DRAGON)
 	--register effect
 	local e0=Effect.CreateEffect(c)
 	e0:SetType(EFFECT_TYPE_CONTINUOUS+EFFECT_TYPE_SINGLE)
