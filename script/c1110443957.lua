@@ -1,3 +1,5 @@
+Duel.LoadScript("cube-attrib-rotation.lua")
+Duel.LoadScript("card_counter_constants.lua")
 --サイバー・ドラゴン・インフィニティ
 --Cyber Dragon Infinity
 local s,id=GetID()
@@ -36,7 +38,7 @@ function s.initial_effect(c)
 	e3:SetOperation(s.disop)
 	c:RegisterEffect(e3,false,REGISTER_FLAG_DETACH_XMAT)
 end
-s.listed_names={58069384}
+s.listed_names={1158069384}
 function s.mfilter(c,xyz,sumtype,tp)
 	return c:IsRace(RACE_MACHINE,xyz,sumtype,tp) and c:IsAttribute(ATTRIBUTE_LIGHT,xyz,sumtype,tp)
 end
