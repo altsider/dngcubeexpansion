@@ -43,7 +43,7 @@ function s.mfilter(c,xyz,sumtype,tp)
 	return c:IsRace(RACE_MACHINE,xyz,sumtype,tp) and c:IsAttribute(ATTRIBUTE_LIGHT,xyz,sumtype,tp)
 end
 function s.ovfilter(c,tp,lc)
-	return c:IsFaceup() and c:IsSummonCode(lc,SUMMON_TYPE_XYZ,tp,58069384)
+	return c:IsFaceup() and c:IsSummonCode(lc,SUMMON_TYPE_XYZ,tp,1158069384)
 end
 function s.xyzop(e,tp,chk)
 	if chk==0 then return Duel.GetFlagEffect(tp,id)==0 end
