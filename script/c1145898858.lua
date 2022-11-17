@@ -18,15 +18,15 @@ function s.spcheck(sg,tp)
 	return aux.ReleaseCheckMMZ(sg,tp) and sg:IsExists(s.chk,1,nil,sg)
 end
 function s.chk(c,sg)
-	return c:IsCode(58071123) and sg:IsExists(Card.IsCode,2,c,22587018)
+	return c:IsCode(1158071123) and sg:IsExists(Card.IsCode,2,c,1122587018)
 end
 function s.cost(e,tp,eg,ep,ev,re,r,rp,chk)
-	if chk==0 then return Duel.CheckReleaseGroupCost(tp,Card.IsCode,3,nil,s.spcheck,nil,22587018,58071123) end
-	local sg=Duel.SelectReleaseGroupCost(tp,Card.IsCode,3,3,nil,s.spcheck,nil,22587018,58071123)
+	if chk==0 then return Duel.CheckReleaseGroupCost(tp,Card.IsCode,3,nil,s.spcheck,nil,1122587018,1158071123) end
+	local sg=Duel.SelectReleaseGroupCost(tp,Card.IsCode,3,3,nil,s.spcheck,nil,1122587018,1158071123)
 	Duel.Release(sg,REASON_COST)
 end
 function s.filter(c,e,tp)
-	return c:IsCode(85066822) and c:IsCanBeSpecialSummoned(e,0,tp,true,true)
+	return c:IsCode(1185066822) and c:IsCanBeSpecialSummoned(e,0,tp,true,true)
 end
 function s.target(e,tp,eg,ep,ev,re,r,rp,chk)
 	if chk==0 then

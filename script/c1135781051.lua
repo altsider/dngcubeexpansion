@@ -29,7 +29,7 @@ function s.coinop(e,tp,eg,ep,ev,re,r,rp)
 	local c=e:GetHandler()
 	if not c:IsRelateToEffect(e) or c:IsFacedown() then return end
 	local res=0
-	if c:IsHasEffect(73206827) then
+	if c:IsHasEffect(1173206827) then
 		res=1-Duel.SelectOption(tp,60,61)
 	else res=Duel.TossCoin(tp,1) end
 	s.arcanareg(c,res)
@@ -65,10 +65,10 @@ function s.arcanareg(c,coin)
 	local e4=e3:Clone()
 	e4:SetCode(EVENT_MSET)
 	c:RegisterEffect(e4)
-	c:RegisterFlagEffect(36690018,RESET_EVENT+RESETS_STANDARD,EFFECT_FLAG_CLIENT_HINT,1,coin,63-coin)
+	c:RegisterFlagEffect(1136690018,RESET_EVENT+RESETS_STANDARD,EFFECT_FLAG_CLIENT_HINT,1,coin,63-coin)
 end
 function s.spcon(e,tp,eg,ep,ev,re,r,rp)
-	return ep~=tp and e:GetHandler():GetFlagEffectLabel(36690018)==1
+	return ep~=tp and e:GetHandler():GetFlagEffectLabel(1136690018)==1
 end
 function s.spfilter(c,e,tp)
 	return c:IsSetCard(0x5) and c:IsCanBeSpecialSummoned(e,0,tp,false,false)
@@ -87,7 +87,7 @@ function s.spop(e,tp,eg,ep,ev,re,r,rp)
 	end
 end
 function s.tgcon(e,tp,eg,ep,ev,re,r,rp)
-	return ep~=tp and e:GetHandler():GetFlagEffectLabel(36690018)==0
+	return ep~=tp and e:GetHandler():GetFlagEffectLabel(1136690018)==0
 end
 function s.tgtg(e,tp,eg,ep,ev,re,r,rp,chk)
 	if chk==0 then return true end

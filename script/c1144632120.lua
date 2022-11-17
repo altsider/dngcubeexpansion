@@ -55,7 +55,7 @@ function s.spop1(e,tp,eg,ep,ev,re,r,rp)
 	end
 end
 function s.spcfilter2(c,tp)
-	return c:IsCode(71036835,7021574,34419588,CARD_KURIBOH) and c:IsReleasable()
+	return c:IsCode(1171036835,1107021574,1134419588,CARD_KURIBOH) and c:IsReleasable()
 		and (c:IsControler(tp) or c:IsFaceup())
 end
 function s.rescon(sg,tp,mg)
@@ -69,7 +69,7 @@ function s.spcost(e,tp,eg,ep,ev,re,r,rp,chk)
 	Duel.Release(sg,REASON_COST)
 end
 function s.spfilter2(c,e,tp)
-	return c:IsCode(70914287) and c:IsCanBeSpecialSummoned(e,0,tp,false,false)
+	return c:IsCode(1170914287) and c:IsCanBeSpecialSummoned(e,0,tp,false,false)
 end
 function s.sptg2(e,tp,eg,ep,ev,re,r,rp,chk)
 	if chk==0 then return Duel.IsExistingMatchingCard(s.spfilter2,tp,LOCATION_HAND+LOCATION_DECK+LOCATION_GRAVE,0,1,nil,e,tp) end

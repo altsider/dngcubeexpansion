@@ -56,7 +56,7 @@ function s.operation(e,tp,eg,ep,ev,re,r,rp)
 	end
 end
 function s.thcfilter(c,tp)
-	return c:IsCode(44632120,71036835,7021574,CARD_KURIBOH) and c:IsReleasable()
+	return c:IsCode(1144632120,1171036835,1107021574,CARD_KURIBOH) and c:IsReleasable()
 		and (c:IsControler(tp) or c:IsFaceup())
 end
 function s.rescon(sg,tp,mg)
@@ -70,7 +70,7 @@ function s.thcost(e,tp,eg,ep,ev,re,r,rp,chk)
 	Duel.Release(sg,REASON_COST)
 end
 function s.thfilter(c)
-	return c:IsCode(16404809) and c:IsAbleToHand()
+	return c:IsCode(1116404809) and c:IsAbleToHand()
 end
 function s.sumfilter(c)
 	return c:IsRace(RACE_FIEND) and c:IsSummonable(true,nil)

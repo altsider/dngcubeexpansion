@@ -39,13 +39,13 @@ function s.initial_effect(c)
 end
 function s.flcon(e)
 	local tc=e:GetHandler():GetEquipTarget()
-	return tc:GetCode()~=83812099 or tc:IsDisabled()
+	return tc:GetCode()~=1183812099 or tc:IsDisabled()
 end
 function s.eqlimit(e,c)
-	return c:GetCode()~=83812099 or c:IsDisabled() or not c:GetEquipGroup():IsExists(Card.IsCode,1,e:GetHandler(),id)
+	return c:GetCode()~=1183812099 or c:IsDisabled() or not c:GetEquipGroup():IsExists(Card.IsCode,1,e:GetHandler(),id)
 end
 function s.filter(c)
-	return c:IsFaceup() and (c:GetCode()~=83812099 or c:IsDisabled() or not c:GetEquipGroup():IsExists(Card.IsCode,1,nil,id))
+	return c:IsFaceup() and (c:GetCode()~=1183812099 or c:IsDisabled() or not c:GetEquipGroup():IsExists(Card.IsCode,1,nil,id))
 end
 function s.target(e,tp,eg,ep,ev,re,r,rp,chk,chkc)
 	if chkc then return chkc:IsLocation(LOCATION_MZONE) and s.filter(chkc) end

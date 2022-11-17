@@ -34,7 +34,7 @@ function s.initial_effect(c)
 	e3:SetOperation(s.tgop)
 	c:RegisterEffect(e3)
 end
-s.listed_names={CARD_RA,id,1110000090}
+s.listed_names={CARD_RA,id,111100010000090}
 function s.thfilter(c)
 	return (c:IsCode(CARD_RA) or c:ListsCode(CARD_RA)) and not c:IsCode(id) and c:IsAbleToHand()
 end
@@ -51,7 +51,7 @@ function s.thop(e,tp,eg,ep,ev,re,r,rp)
 	end
 end
 function s.cfilter(c)
-	return c:IsCode(10000090) and c:IsAbleToGrave()
+	return c:IsCode(111100010000090) and c:IsAbleToGrave()
 end
 function s.tgfilter(c)
 	return c:IsCode(CARD_RA) and c:IsAbleToGrave() and c:IsFaceup()

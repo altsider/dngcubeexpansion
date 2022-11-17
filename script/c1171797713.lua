@@ -36,7 +36,7 @@ function s.regfilter(c,attr)
 end
 function s.spcost(e,tp,eg,ep,ev,re,r,rp,chk)
 	local fg=Group.CreateGroup()
-	for i,pe in ipairs({Duel.IsPlayerAffectedByEffect(tp,61557074)}) do
+	for i,pe in ipairs({Duel.IsPlayerAffectedByEffect(tp,1161557074)}) do
 		fg:AddCard(pe:GetHandler())
 	end
 	local loc=LOCATION_HAND
@@ -52,7 +52,7 @@ function s.spcost(e,tp,eg,ep,ev,re,r,rp,chk)
 			fc=fg:Select(tp,1,1,nil)
 		end
 		Duel.Hint(HINT_CARD,0,fc:GetCode())
-		fc:RegisterFlagEffect(61557074,RESET_EVENT+RESETS_STANDARD+RESET_PHASE+PHASE_END,0,0)
+		fc:RegisterFlagEffect(1161557074,RESET_EVENT+RESETS_STANDARD+RESET_PHASE+PHASE_END,0,0)
 	end
 	local flag=0
 	if g:IsExists(s.regfilter,1,nil,ATTRIBUTE_EARTH+ATTRIBUTE_WIND) then flag=flag|0x1 end

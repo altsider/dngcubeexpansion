@@ -59,15 +59,15 @@ end
 function s.operation(e,tp,eg,ep,ev,re,r,rp)
 	if not e:GetHandler():IsRelateToEffect(e) then return end
 	if Duel.GetLocationCount(tp,LOCATION_SZONE)<=0 then return end
-	if not Duel.IsExistingMatchingCard(s.cfilter1,tp,LOCATION_SZONE,0,1,nil,4081094) then
+	if not Duel.IsExistingMatchingCard(s.cfilter1,tp,LOCATION_SZONE,0,1,nil,1104081094) then
 		Duel.Hint(HINT_SELECTMSG,tp,aux.Stringid(id,2))
-		local g=Duel.SelectMatchingCard(tp,Card.IsCode,tp,LOCATION_DECK+LOCATION_HAND,0,1,1,nil,4081094)
+		local g=Duel.SelectMatchingCard(tp,Card.IsCode,tp,LOCATION_DECK+LOCATION_HAND,0,1,1,nil,1104081094)
 		if #g>0 then
 			Duel.MoveToField(g:GetFirst(),tp,tp,LOCATION_SZONE,POS_FACEUP,true)
 		end
-	elseif not Duel.IsExistingMatchingCard(s.cfilter1,tp,LOCATION_SZONE,0,1,nil,78697395) then
+	elseif not Duel.IsExistingMatchingCard(s.cfilter1,tp,LOCATION_SZONE,0,1,nil,1178697395) then
 		Duel.Hint(HINT_SELECTMSG,tp,aux.Stringid(id,2))
-		local g=Duel.SelectMatchingCard(tp,Card.IsCode,tp,LOCATION_DECK+LOCATION_HAND,0,1,1,nil,78697395)
+		local g=Duel.SelectMatchingCard(tp,Card.IsCode,tp,LOCATION_DECK+LOCATION_HAND,0,1,1,nil,1178697395)
 		if #g>0 then
 			Duel.MoveToField(g:GetFirst(),tp,tp,LOCATION_SZONE,POS_FACEUP,true)
 		end
@@ -77,13 +77,13 @@ function s.cfilter2(c,code)
 	return c:IsFaceup() and c:IsCode(code) and c:IsAbleToGraveAsCost()
 end
 function s.cfilter3(c)
-	return c:IsFaceup() and c:IsCode(id,4081094,78697395) and c:IsAbleToGraveAsCost()
+	return c:IsFaceup() and c:IsCode(id,1104081094,1178697395) and c:IsAbleToGraveAsCost()
 end
 function s.spcost(e,tp,eg,ep,ev,re,r,rp,chk)
 	local c=e:GetHandler()
 	if chk==0 then return c:IsAbleToGraveAsCost() and c:IsStatus(STATUS_EFFECT_ENABLED)
-		and Duel.IsExistingMatchingCard(s.cfilter2,tp,LOCATION_SZONE,0,1,nil,4081094)
-		and Duel.IsExistingMatchingCard(s.cfilter2,tp,LOCATION_SZONE,0,1,nil,78697395) end
+		and Duel.IsExistingMatchingCard(s.cfilter2,tp,LOCATION_SZONE,0,1,nil,1104081094)
+		and Duel.IsExistingMatchingCard(s.cfilter2,tp,LOCATION_SZONE,0,1,nil,1178697395) end
 	local g=Duel.GetMatchingGroup(s.cfilter3,tp,LOCATION_SZONE,0,nil)
 	Duel.SendtoGrave(g,REASON_COST)
 end
@@ -103,10 +103,10 @@ function s.spop(e,tp,eg,ep,ev,re,r,rp)
 	end
 end
 function s.cfilter4(c)
-	return c:IsCode(id,4081094,78697395)
+	return c:IsCode(id,1104081094,1178697395)
 end
 function s.cfilter5(c)
-	return c:IsFaceup() and c:IsCode(id,4081094,78697395)
+	return c:IsFaceup() and c:IsCode(id,1104081094,1178697395)
 end
 function s.tgcon(e,tp,eg,ep,ev,re,r,rp)
 	return eg:IsExists(s.cfilter4,1,nil)

@@ -16,10 +16,10 @@ function s.initial_effect(c)
 end
 s.listed_names={1123915499,1150319138}
 function s.cfilter(c)
-	return c:IsFaceup() and c:IsCode(23915499)
+	return c:IsFaceup() and c:IsCode(1123915499)
 end
 function s.spfilter(c,e,tp)
-	return c:IsCode(50319138) and c:IsCanBeSpecialSummoned(e,0,tp,false,false)
+	return c:IsCode(1150319138) and c:IsCanBeSpecialSummoned(e,0,tp,false,false)
 end
 function s.condition(e,tp,eg,ep,ev,re,r,rp)
 	return Duel.IsExistingMatchingCard(s.cfilter,tp,LOCATION_ONFIELD,0,1,nil)

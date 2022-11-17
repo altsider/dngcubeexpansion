@@ -82,7 +82,7 @@ function s.rmtg(e,tp,eg,ep,ev,re,r,rp,chk)
 end
 function s.rmop(e,tp,eg,ep,ev,re,r,rp)
 	local hg=Duel.GetFieldGroup(tp,0,LOCATION_HAND)
-	if Duel.IsPlayerAffectedByEffect(1-tp,30459350) or #hg==0 then return end
+	if Duel.IsPlayerAffectedByEffect(1-tp,1130459350) or #hg==0 then return end
 	Duel.ConfirmCards(tp,hg)
 	Duel.Hint(HINT_SELECTMSG,tp,HINTMSG_REMOVE)
 	local g=hg:Select(tp,1,1,nil)

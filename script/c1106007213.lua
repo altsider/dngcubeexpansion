@@ -52,7 +52,7 @@ function s.spcon(e,c)
 	if c==nil then return true end
 	local tp=c:GetControler()
 	local g=nil
-	if Duel.IsPlayerAffectedByEffect(tp,16317140) then
+	if Duel.IsPlayerAffectedByEffect(tp,1116317140) then
 		g=Duel.GetMatchingGroup(s.exfilter,tp,LOCATION_ONFIELD,0,nil)
 	else
 		g=Duel.GetMatchingGroup(s.spfilter,tp,LOCATION_ONFIELD,0,nil)
@@ -61,7 +61,7 @@ function s.spcon(e,c)
 end
 function s.sptg(e,tp,eg,ep,ev,re,r,rp,c)
 	local g=nil
-	if Duel.IsPlayerAffectedByEffect(tp,16317140) then
+	if Duel.IsPlayerAffectedByEffect(tp,1116317140) then
 		g=Duel.GetMatchingGroup(s.exfilter,tp,LOCATION_ONFIELD,0,nil)
 	else
 		g=Duel.GetMatchingGroup(s.spfilter,tp,LOCATION_ONFIELD,0,nil)

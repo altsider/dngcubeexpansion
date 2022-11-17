@@ -30,7 +30,7 @@ end
 s.listed_names={1115259703,id}
 
 function s.filter(c)
-	return (c:ListsCode(15259703) or c:IsCode(15259703)) and not c:IsCode(id) and c:IsAbleToHand() 
+	return (c:ListsCode(1115259703) or c:IsCode(1115259703)) and not c:IsCode(id) and c:IsAbleToHand() 
 end
 function s.target(e,tp,eg,ep,ev,re,r,rp,chk)
 	if chk==0 then return Duel.IsExistingMatchingCard(s.filter,tp,LOCATION_DECK,0,1,nil) end
@@ -45,7 +45,7 @@ function s.activate(e,tp,eg,ep,ev,re,r,rp)
 	end
 end
 function s.repfilter(c,tp)
-	return c:IsFaceup() and c:IsControler(tp) and c:IsOnField() and c:IsCode(15259703)
+	return c:IsFaceup() and c:IsControler(tp) and c:IsOnField() and c:IsCode(1115259703)
 	and not c:IsReason(REASON_REPLACE) and c:IsReason(REASON_EFFECT)
 end
 function s.reptg(e,tp,eg,ep,ev,re,r,rp,chk)

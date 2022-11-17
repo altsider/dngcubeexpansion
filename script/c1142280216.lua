@@ -33,7 +33,7 @@ function s.shcon(e,tp,eg,ep,ev,re,r,rp)
 	return e:GetHandler():IsPreviousLocation(LOCATION_ONFIELD) and e:GetHandler():IsReason(REASON_DESTROY)
 end
 function s.filter(c)
-	return c:IsCode(78275321,78552773) and c:IsAbleToHand()
+	return c:IsCode(1178275321,1178552773) and c:IsAbleToHand()
 end
 function s.shtg(e,tp,eg,ep,ev,re,r,rp,chk)
 	if chk==0 then return Duel.IsExistingMatchingCard(s.filter,tp,LOCATION_DECK,0,1,nil) end

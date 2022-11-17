@@ -36,7 +36,7 @@ function s.fieldcond(c)
 	return c:IsFaceup() and c:IsCode(CARD_STROMBERG)
 end
 function s.spfilter(c,e,tp)
-	return c:IsCode(73405179) and c:IsCanBeSpecialSummoned(e,0,tp,false,false)
+	return c:IsCode(1173405179) and c:IsCanBeSpecialSummoned(e,0,tp,false,false)
 end
 function s.target(e,tp,eg,ep,ev,re,r,rp,chk)
 	if chk==0 then return Duel.GetLocationCount(tp,LOCATION_MZONE)>0
@@ -68,7 +68,7 @@ function s.splimit(e,c)
 	return c:IsLocation(LOCATION_EXTRA)
 end
 function s.atkfilter(c)
-	return c:IsFaceup() and c:IsCode(73405179)
+	return c:IsFaceup() and c:IsCode(1173405179)
 end
 function s.value(e,c)
 	return Duel.GetMatchingGroupCount(s.atkfilter,c:GetControler(),LOCATION_MZONE,0,nil)*1000

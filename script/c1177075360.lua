@@ -43,7 +43,7 @@ end
 s.listed_series={0x1017}
 s.material_setcode=0x1017
 function s.tfilter(c,lc,stype,tp)
-	return c:IsSetCard(0x1017,lc,stype,tp) or c:IsHasEffect(20932152)
+	return c:IsSetCard(0x1017,lc,stype,tp) or c:IsHasEffect(1120932152)
 end
 function s.counterfilter(c)
 	return not c:IsSummonLocation(LOCATION_EXTRA) or c:IsType(TYPE_SYNCHRO)

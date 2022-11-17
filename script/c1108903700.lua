@@ -20,7 +20,7 @@ function s.initial_effect(c)
 	c:RegisterEffect(e2)
 end
 function s.con(e)
-	return not Duel.IsPlayerAffectedByEffect(e:GetHandlerPlayer(),69832741)
+	return not Duel.IsPlayerAffectedByEffect(e:GetHandlerPlayer(),1169832741)
 end
 function s.condition(e,tp,eg,ep,ev,re,r,rp)
 	return r==REASON_RITUAL

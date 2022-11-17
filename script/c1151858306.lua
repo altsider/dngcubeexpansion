@@ -34,7 +34,7 @@ function s.filter(c)
 		and c:IsAbleToRemove()
 end
 function s.operation(e,tp,eg,ep,ev,re,r,rp)
-	if Duel.IsPlayerAffectedByEffect(tp,30459350) then return end
+	if Duel.IsPlayerAffectedByEffect(tp,1130459350) then return end
 	Duel.Hint(HINT_SELECTMSG,tp,HINTMSG_REMOVE)
 	local g=Duel.SelectMatchingCard(tp,s.filter,tp,LOCATION_DECK,0,1,1,nil)
 	local tc=g:GetFirst()

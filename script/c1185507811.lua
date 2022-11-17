@@ -8,7 +8,7 @@ function s.initial_effect(c)
 	--Must be properly summoned before reviving
 	c:EnableReviveLimit()
 	--Contact fusion procedure
-	Fusion.AddProcMix(c,true,true,CARD_NEOS,17732278)
+	Fusion.AddProcMix(c,true,true,CARD_NEOS,1117732278)
 	Fusion.AddContactProc(c,s.contactfil,s.contactop,s.splimit)
 	--Return itself to extra deck during end phase
 	aux.EnableNeosReturn(c)

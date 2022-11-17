@@ -28,7 +28,7 @@ function s.initial_effect(c)
 end
 s.listed_names={1141916534,CARD_STROMBERG}
 function s.atkfilter(c)
-	return c:IsFaceup() and c:IsCode(41916534)
+	return c:IsFaceup() and c:IsCode(1141916534)
 end
 function s.atkcond(e)
 	return Duel.IsExistingMatchingCard(s.atkfilter,e:GetHandlerPlayer(),LOCATION_MZONE,0,1,nil)
@@ -37,7 +37,7 @@ function s.thcon(e,tp,eg,ep,ev,re,r,rp)
 	return (r&REASON_EFFECT+REASON_BATTLE)~=0 and e:GetHandler():IsPreviousLocation(LOCATION_ONFIELD)
 end
 function s.thfilter(c,fc)
-	return (c:IsCode(41916534) or (fc and c:IsRace(RACE_WARRIOR))) and c:IsAbleToHand()
+	return (c:IsCode(1141916534) or (fc and c:IsRace(RACE_WARRIOR))) and c:IsAbleToHand()
 end
 function s.fieldcond(c)
 	return c:IsFaceup() and c:IsCode(CARD_STROMBERG)
